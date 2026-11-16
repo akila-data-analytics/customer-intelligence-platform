@@ -1,0 +1,1410 @@
+Test_Record_ID,Actual_Churn,Predicted_Churn,Churn_Probability,Risk_Level,Recommendation
+1,0,0,0.11162492698336052,Low,Continue regular customer engagement
+2,0,1,0.897282413453997,High,Prioritize customer contact and discuss suitable retention options
+3,0,0,0.1506076960899759,Low,Continue regular customer engagement
+4,0,0,0.5785593860553927,Medium,Monitor satisfaction and investigate possible service issues
+5,0,0,0.06572709328531098,Low,Continue regular customer engagement
+6,0,1,0.757791067425712,High,Prioritize customer contact and discuss suitable retention options
+7,0,0,0.6130776765181395,High,Prioritize customer contact and discuss suitable retention options
+8,0,0,0.23986470840569898,Low,Continue regular customer engagement
+9,0,0,0.014133578214493408,Low,Continue regular customer engagement
+10,1,0,0.5717075690216598,Medium,Monitor satisfaction and investigate possible service issues
+11,0,0,0.5421516720922137,Medium,Monitor satisfaction and investigate possible service issues
+12,0,0,0.1444065232263309,Low,Continue regular customer engagement
+13,0,0,0.3916002622337701,Medium,Monitor satisfaction and investigate possible service issues
+14,1,1,0.8781026763914611,High,Prioritize customer contact and discuss suitable retention options
+15,0,0,0.22679233774159682,Low,Continue regular customer engagement
+16,0,0,0.15802266949131585,Low,Continue regular customer engagement
+17,0,0,0.07704349961731956,Low,Continue regular customer engagement
+18,0,1,0.7926026958895728,High,Prioritize customer contact and discuss suitable retention options
+19,0,0,0.40017790105133044,Medium,Monitor satisfaction and investigate possible service issues
+20,0,0,0.19309908698189154,Low,Continue regular customer engagement
+21,1,1,0.890806856998545,High,Prioritize customer contact and discuss suitable retention options
+22,0,0,0.41005615166466636,Medium,Monitor satisfaction and investigate possible service issues
+23,0,0,0.07505575224524631,Low,Continue regular customer engagement
+24,0,0,0.07095479417768961,Low,Continue regular customer engagement
+25,0,0,0.443922104913025,Medium,Monitor satisfaction and investigate possible service issues
+26,0,0,0.35151454996321135,Medium,Monitor satisfaction and investigate possible service issues
+27,1,1,0.7262715237805144,High,Prioritize customer contact and discuss suitable retention options
+28,1,1,0.8445438726014723,High,Prioritize customer contact and discuss suitable retention options
+29,0,0,0.046583085557768474,Low,Continue regular customer engagement
+30,1,1,0.9123407284422234,High,Prioritize customer contact and discuss suitable retention options
+31,0,1,0.7466755261877497,High,Prioritize customer contact and discuss suitable retention options
+32,0,1,0.6586954199684271,High,Prioritize customer contact and discuss suitable retention options
+33,0,0,0.03227658872383503,Low,Continue regular customer engagement
+34,0,0,0.021115131660499782,Low,Continue regular customer engagement
+35,1,1,0.9177903397184591,High,Prioritize customer contact and discuss suitable retention options
+36,0,0,0.5645486035069306,Medium,Monitor satisfaction and investigate possible service issues
+37,1,0,0.6346335803395622,High,Prioritize customer contact and discuss suitable retention options
+38,0,0,0.010137905893998895,Low,Continue regular customer engagement
+39,1,1,0.90340582986758,High,Prioritize customer contact and discuss suitable retention options
+40,1,0,0.3736440927990076,Medium,Monitor satisfaction and investigate possible service issues
+41,0,0,0.015006560801810015,Low,Continue regular customer engagement
+42,0,1,0.9236136686366618,High,Prioritize customer contact and discuss suitable retention options
+43,0,0,0.5523424685502092,Medium,Monitor satisfaction and investigate possible service issues
+44,0,0,0.4593481096947275,Medium,Monitor satisfaction and investigate possible service issues
+45,0,0,0.10162474207331088,Low,Continue regular customer engagement
+46,1,1,0.7911800311271969,High,Prioritize customer contact and discuss suitable retention options
+47,0,1,0.8781766742832046,High,Prioritize customer contact and discuss suitable retention options
+48,0,1,0.6647973025512337,High,Prioritize customer contact and discuss suitable retention options
+49,0,0,0.031558164108200074,Low,Continue regular customer engagement
+50,1,0,0.5744973689016044,Medium,Monitor satisfaction and investigate possible service issues
+51,0,0,0.020185332743450333,Low,Continue regular customer engagement
+52,1,1,0.8997953400958044,High,Prioritize customer contact and discuss suitable retention options
+53,0,0,0.3695508787771501,Medium,Monitor satisfaction and investigate possible service issues
+54,0,0,0.5342334618678513,Medium,Monitor satisfaction and investigate possible service issues
+55,0,0,0.4538342198415061,Medium,Monitor satisfaction and investigate possible service issues
+56,1,1,0.8190939249795387,High,Prioritize customer contact and discuss suitable retention options
+57,0,0,0.1438219696426374,Low,Continue regular customer engagement
+58,0,0,0.16455743651579086,Low,Continue regular customer engagement
+59,0,0,0.16349319101876672,Low,Continue regular customer engagement
+60,0,0,0.01534236154648512,Low,Continue regular customer engagement
+61,0,0,0.02189073167964468,Low,Continue regular customer engagement
+62,1,0,0.0848589096841221,Low,Continue regular customer engagement
+63,0,0,0.3606412074327203,Medium,Monitor satisfaction and investigate possible service issues
+64,0,0,0.40510647215419815,Medium,Monitor satisfaction and investigate possible service issues
+65,1,0,0.5037461950964779,Medium,Monitor satisfaction and investigate possible service issues
+66,1,0,0.6385275550942058,High,Prioritize customer contact and discuss suitable retention options
+67,1,0,0.4654295055718465,Medium,Monitor satisfaction and investigate possible service issues
+68,1,0,0.435113240301325,Medium,Monitor satisfaction and investigate possible service issues
+69,1,0,0.44764568545949696,Medium,Monitor satisfaction and investigate possible service issues
+70,1,1,0.8429896633587961,High,Prioritize customer contact and discuss suitable retention options
+71,0,0,0.012388182802096033,Low,Continue regular customer engagement
+72,0,0,0.032991675565112975,Low,Continue regular customer engagement
+73,1,1,0.7670058112180215,High,Prioritize customer contact and discuss suitable retention options
+74,0,0,0.37179730526253074,Medium,Monitor satisfaction and investigate possible service issues
+75,0,0,0.09679691037268635,Low,Continue regular customer engagement
+76,0,0,0.09005876545420664,Low,Continue regular customer engagement
+77,0,0,0.15817333297420116,Low,Continue regular customer engagement
+78,1,1,0.6914146907539949,High,Prioritize customer contact and discuss suitable retention options
+79,0,0,0.4682990017941544,Medium,Monitor satisfaction and investigate possible service issues
+80,0,0,0.01396636794139609,Low,Continue regular customer engagement
+81,0,0,0.0937992905709176,Low,Continue regular customer engagement
+82,0,0,0.041080063315066,Low,Continue regular customer engagement
+83,1,0,0.38491807179116017,Medium,Monitor satisfaction and investigate possible service issues
+84,1,1,0.9256590209003225,High,Prioritize customer contact and discuss suitable retention options
+85,0,0,0.16888161068386562,Low,Continue regular customer engagement
+86,0,1,0.690239113082237,High,Prioritize customer contact and discuss suitable retention options
+87,0,1,0.8385808132644592,High,Prioritize customer contact and discuss suitable retention options
+88,1,1,0.7359450650787096,High,Prioritize customer contact and discuss suitable retention options
+89,1,1,0.6722710677541927,High,Prioritize customer contact and discuss suitable retention options
+90,0,0,0.23513924659509847,Low,Continue regular customer engagement
+91,1,1,0.7815235819543752,High,Prioritize customer contact and discuss suitable retention options
+92,0,0,0.5154811164444859,Medium,Monitor satisfaction and investigate possible service issues
+93,0,0,0.031882871760599674,Low,Continue regular customer engagement
+94,1,1,0.7452067399696222,High,Prioritize customer contact and discuss suitable retention options
+95,1,0,0.5499099686884394,Medium,Monitor satisfaction and investigate possible service issues
+96,0,0,0.035933220532086134,Low,Continue regular customer engagement
+97,0,1,0.6991247604501504,High,Prioritize customer contact and discuss suitable retention options
+98,0,0,0.022242684857906366,Low,Continue regular customer engagement
+99,1,1,0.8487365606569991,High,Prioritize customer contact and discuss suitable retention options
+100,0,0,0.3741719355023055,Medium,Monitor satisfaction and investigate possible service issues
+101,1,1,0.8829055738266172,High,Prioritize customer contact and discuss suitable retention options
+102,1,1,0.845383855154458,High,Prioritize customer contact and discuss suitable retention options
+103,0,1,0.6895564985068514,High,Prioritize customer contact and discuss suitable retention options
+104,1,0,0.6409669152888308,High,Prioritize customer contact and discuss suitable retention options
+105,1,0,0.44708429707400094,Medium,Monitor satisfaction and investigate possible service issues
+106,0,0,0.0095556013928439,Low,Continue regular customer engagement
+107,0,0,0.24653847300370835,Low,Continue regular customer engagement
+108,0,0,0.16148484981195976,Low,Continue regular customer engagement
+109,0,0,0.11572474054456507,Low,Continue regular customer engagement
+110,0,0,0.12670119155005058,Low,Continue regular customer engagement
+111,0,0,0.06381941321710757,Low,Continue regular customer engagement
+112,0,1,0.841533336287887,High,Prioritize customer contact and discuss suitable retention options
+113,0,0,0.2948767436928449,Low,Continue regular customer engagement
+114,0,1,0.7603820946043492,High,Prioritize customer contact and discuss suitable retention options
+115,1,1,0.8275068005897616,High,Prioritize customer contact and discuss suitable retention options
+116,0,0,0.11008979277519977,Low,Continue regular customer engagement
+117,1,1,0.7344020595403687,High,Prioritize customer contact and discuss suitable retention options
+118,0,0,0.6507466626628547,High,Prioritize customer contact and discuss suitable retention options
+119,0,0,0.10296671755287966,Low,Continue regular customer engagement
+120,0,0,0.020395427222223532,Low,Continue regular customer engagement
+121,0,0,0.12206712379628182,Low,Continue regular customer engagement
+122,1,1,0.8322625976832319,High,Prioritize customer contact and discuss suitable retention options
+123,0,0,0.054854752688810564,Low,Continue regular customer engagement
+124,0,0,0.09928474274308861,Low,Continue regular customer engagement
+125,1,1,0.8753684529045819,High,Prioritize customer contact and discuss suitable retention options
+126,0,0,0.05402889148838891,Low,Continue regular customer engagement
+127,1,0,0.6067181276212008,High,Prioritize customer contact and discuss suitable retention options
+128,0,0,0.3841008395099253,Medium,Monitor satisfaction and investigate possible service issues
+129,1,1,0.8338008753466588,High,Prioritize customer contact and discuss suitable retention options
+130,0,0,0.3121302725552908,Medium,Monitor satisfaction and investigate possible service issues
+131,1,0,0.3900392720770667,Medium,Monitor satisfaction and investigate possible service issues
+132,1,0,0.5895735152022662,Medium,Monitor satisfaction and investigate possible service issues
+133,0,0,0.26560909504850183,Low,Continue regular customer engagement
+134,0,0,0.338942861199992,Medium,Monitor satisfaction and investigate possible service issues
+135,0,0,0.1164639796133606,Low,Continue regular customer engagement
+136,0,0,0.3876539771215916,Medium,Monitor satisfaction and investigate possible service issues
+137,0,0,0.0969764586457501,Low,Continue regular customer engagement
+138,0,0,0.20549055469880162,Low,Continue regular customer engagement
+139,0,0,0.027324430662894424,Low,Continue regular customer engagement
+140,1,0,0.5737411891765046,Medium,Monitor satisfaction and investigate possible service issues
+141,0,0,0.1177209801951499,Low,Continue regular customer engagement
+142,0,0,0.2049769180815142,Low,Continue regular customer engagement
+143,0,1,0.7839233172916521,High,Prioritize customer contact and discuss suitable retention options
+144,0,0,0.06510084165214472,Low,Continue regular customer engagement
+145,0,0,0.07747752012574405,Low,Continue regular customer engagement
+146,0,0,0.15486635984995473,Low,Continue regular customer engagement
+147,0,0,0.11561547188946208,Low,Continue regular customer engagement
+148,1,0,0.6204356268268569,High,Prioritize customer contact and discuss suitable retention options
+149,0,0,0.6076773785290713,High,Prioritize customer contact and discuss suitable retention options
+150,0,0,0.5613642133172297,Medium,Monitor satisfaction and investigate possible service issues
+151,0,0,0.03681011840723536,Low,Continue regular customer engagement
+152,0,1,0.7617695931441613,High,Prioritize customer contact and discuss suitable retention options
+153,0,0,0.29577238904758973,Low,Continue regular customer engagement
+154,0,0,0.4897655845049383,Medium,Monitor satisfaction and investigate possible service issues
+155,1,1,0.9187662979792686,High,Prioritize customer contact and discuss suitable retention options
+156,0,0,0.5538767856346051,Medium,Monitor satisfaction and investigate possible service issues
+157,0,1,0.8136200537266035,High,Prioritize customer contact and discuss suitable retention options
+158,1,0,0.6542788319551599,High,Prioritize customer contact and discuss suitable retention options
+159,1,1,0.6799713476365112,High,Prioritize customer contact and discuss suitable retention options
+160,1,1,0.7311219087794293,High,Prioritize customer contact and discuss suitable retention options
+161,0,0,0.11737676797749079,Low,Continue regular customer engagement
+162,0,0,0.28004696037267895,Low,Continue regular customer engagement
+163,0,0,0.008847832215396693,Low,Continue regular customer engagement
+164,0,0,0.023436990534877467,Low,Continue regular customer engagement
+165,0,0,0.20153281229574704,Low,Continue regular customer engagement
+166,1,0,0.3789420517968946,Medium,Monitor satisfaction and investigate possible service issues
+167,0,0,0.0929072808699448,Low,Continue regular customer engagement
+168,1,0,0.3415952685523107,Medium,Monitor satisfaction and investigate possible service issues
+169,0,0,0.21801682405789352,Low,Continue regular customer engagement
+170,0,0,0.03844030225929408,Low,Continue regular customer engagement
+171,0,0,0.6297458523201839,High,Prioritize customer contact and discuss suitable retention options
+172,1,1,0.9030453843478854,High,Prioritize customer contact and discuss suitable retention options
+173,0,0,0.2568072170384079,Low,Continue regular customer engagement
+174,1,0,0.3947817916045371,Medium,Monitor satisfaction and investigate possible service issues
+175,0,0,0.580576898102758,Medium,Monitor satisfaction and investigate possible service issues
+176,0,1,0.7803847910813961,High,Prioritize customer contact and discuss suitable retention options
+177,0,0,0.02265854599656339,Low,Continue regular customer engagement
+178,0,0,0.020784528741043612,Low,Continue regular customer engagement
+179,0,0,0.6149887842370954,High,Prioritize customer contact and discuss suitable retention options
+180,0,0,0.3174450397230722,Medium,Monitor satisfaction and investigate possible service issues
+181,1,1,0.8094340030407126,High,Prioritize customer contact and discuss suitable retention options
+182,0,0,0.1074375183741586,Low,Continue regular customer engagement
+183,1,1,0.8937625373072298,High,Prioritize customer contact and discuss suitable retention options
+184,1,0,0.49410170531360365,Medium,Monitor satisfaction and investigate possible service issues
+185,0,0,0.008886263063232095,Low,Continue regular customer engagement
+186,0,0,0.5716140145282042,Medium,Monitor satisfaction and investigate possible service issues
+187,0,0,0.14941502277239935,Low,Continue regular customer engagement
+188,1,0,0.6251951561097482,High,Prioritize customer contact and discuss suitable retention options
+189,0,0,0.22031306138551976,Low,Continue regular customer engagement
+190,0,0,0.09483658717778326,Low,Continue regular customer engagement
+191,0,0,0.3918678967660309,Medium,Monitor satisfaction and investigate possible service issues
+192,0,0,0.6471272776255819,High,Prioritize customer contact and discuss suitable retention options
+193,1,1,0.7981392419818091,High,Prioritize customer contact and discuss suitable retention options
+194,0,0,0.0381528447280266,Low,Continue regular customer engagement
+195,0,1,0.7199617815006156,High,Prioritize customer contact and discuss suitable retention options
+196,0,0,0.6158530352671224,High,Prioritize customer contact and discuss suitable retention options
+197,0,0,0.5629876638831159,Medium,Monitor satisfaction and investigate possible service issues
+198,0,0,0.6280644234009084,High,Prioritize customer contact and discuss suitable retention options
+199,0,1,0.7338258824738978,High,Prioritize customer contact and discuss suitable retention options
+200,0,1,0.6570455652643971,High,Prioritize customer contact and discuss suitable retention options
+201,0,0,0.346694541647615,Medium,Monitor satisfaction and investigate possible service issues
+202,0,0,0.02991138474629426,Low,Continue regular customer engagement
+203,0,0,0.15747011250602264,Low,Continue regular customer engagement
+204,0,0,0.1351234590695386,Low,Continue regular customer engagement
+205,0,0,0.40130642029241326,Medium,Monitor satisfaction and investigate possible service issues
+206,0,0,0.26565615791416997,Low,Continue regular customer engagement
+207,0,0,0.20603293478098716,Low,Continue regular customer engagement
+208,0,0,0.42564400219560006,Medium,Monitor satisfaction and investigate possible service issues
+209,0,0,0.4289952490216205,Medium,Monitor satisfaction and investigate possible service issues
+210,0,0,0.019679845344736543,Low,Continue regular customer engagement
+211,1,0,0.33905524265663134,Medium,Monitor satisfaction and investigate possible service issues
+212,0,0,0.6456360318057273,High,Prioritize customer contact and discuss suitable retention options
+213,1,0,0.6410828681326917,High,Prioritize customer contact and discuss suitable retention options
+214,0,0,0.06197330397570717,Low,Continue regular customer engagement
+215,0,0,0.04517051336008325,Low,Continue regular customer engagement
+216,0,0,0.5876300927685393,Medium,Monitor satisfaction and investigate possible service issues
+217,0,0,0.015496769586779638,Low,Continue regular customer engagement
+218,0,1,0.7276597298970908,High,Prioritize customer contact and discuss suitable retention options
+219,1,1,0.7234566871425876,High,Prioritize customer contact and discuss suitable retention options
+220,1,0,0.2050750681492854,Low,Continue regular customer engagement
+221,0,0,0.2599951047760398,Low,Continue regular customer engagement
+222,0,0,0.3060878426764349,Medium,Monitor satisfaction and investigate possible service issues
+223,0,0,0.6558009186840665,High,Prioritize customer contact and discuss suitable retention options
+224,0,0,0.16485975350058865,Low,Continue regular customer engagement
+225,0,1,0.8946035307387823,High,Prioritize customer contact and discuss suitable retention options
+226,0,0,0.2719364361496204,Low,Continue regular customer engagement
+227,0,0,0.012004711333635542,Low,Continue regular customer engagement
+228,0,0,0.3845210210171798,Medium,Monitor satisfaction and investigate possible service issues
+229,1,1,0.8428146857843626,High,Prioritize customer contact and discuss suitable retention options
+230,0,1,0.917179254584263,High,Prioritize customer contact and discuss suitable retention options
+231,0,0,0.17352265658704705,Low,Continue regular customer engagement
+232,1,1,0.7804548986437634,High,Prioritize customer contact and discuss suitable retention options
+233,0,1,0.7111966246655649,High,Prioritize customer contact and discuss suitable retention options
+234,0,0,0.08997688773173032,Low,Continue regular customer engagement
+235,1,1,0.8896334537976492,High,Prioritize customer contact and discuss suitable retention options
+236,1,1,0.9013966078307253,High,Prioritize customer contact and discuss suitable retention options
+237,1,0,0.6300320721919785,High,Prioritize customer contact and discuss suitable retention options
+238,0,1,0.711403563133594,High,Prioritize customer contact and discuss suitable retention options
+239,0,0,0.30924149645479204,Medium,Monitor satisfaction and investigate possible service issues
+240,0,1,0.7736797179252617,High,Prioritize customer contact and discuss suitable retention options
+241,1,1,0.8534860128376496,High,Prioritize customer contact and discuss suitable retention options
+242,1,1,0.7656240378782868,High,Prioritize customer contact and discuss suitable retention options
+243,0,0,0.1925547523439851,Low,Continue regular customer engagement
+244,0,0,0.22214535261356821,Low,Continue regular customer engagement
+245,1,1,0.6929066866578106,High,Prioritize customer contact and discuss suitable retention options
+246,1,1,0.7019970166064501,High,Prioritize customer contact and discuss suitable retention options
+247,1,1,0.8342181117575358,High,Prioritize customer contact and discuss suitable retention options
+248,0,0,0.0766946635255622,Low,Continue regular customer engagement
+249,0,0,0.09614742326645077,Low,Continue regular customer engagement
+250,0,1,0.6959829327802173,High,Prioritize customer contact and discuss suitable retention options
+251,0,0,0.09666135753795572,Low,Continue regular customer engagement
+252,0,0,0.30291599458790147,Medium,Monitor satisfaction and investigate possible service issues
+253,0,0,0.20610400728219158,Low,Continue regular customer engagement
+254,0,0,0.09296430606933226,Low,Continue regular customer engagement
+255,1,0,0.5100941290617972,Medium,Monitor satisfaction and investigate possible service issues
+256,0,0,0.04704911388938675,Low,Continue regular customer engagement
+257,0,0,0.23339117679100482,Low,Continue regular customer engagement
+258,0,0,0.5030431738242264,Medium,Monitor satisfaction and investigate possible service issues
+259,0,0,0.4618189927677238,Medium,Monitor satisfaction and investigate possible service issues
+260,0,1,0.675604749106257,High,Prioritize customer contact and discuss suitable retention options
+261,0,1,0.7318232435927632,High,Prioritize customer contact and discuss suitable retention options
+262,0,0,0.17955199988889958,Low,Continue regular customer engagement
+263,0,0,0.01617403086482247,Low,Continue regular customer engagement
+264,0,0,0.2571017951354552,Low,Continue regular customer engagement
+265,1,1,0.7608174279386002,High,Prioritize customer contact and discuss suitable retention options
+266,1,0,0.3994981005126971,Medium,Monitor satisfaction and investigate possible service issues
+267,1,1,0.8178516695088184,High,Prioritize customer contact and discuss suitable retention options
+268,0,0,0.05225133288204166,Low,Continue regular customer engagement
+269,0,1,0.6713565299081043,High,Prioritize customer contact and discuss suitable retention options
+270,0,1,0.71973986013099,High,Prioritize customer contact and discuss suitable retention options
+271,0,1,0.769359925822503,High,Prioritize customer contact and discuss suitable retention options
+272,0,0,0.019541102304642267,Low,Continue regular customer engagement
+273,0,0,0.5592876534077373,Medium,Monitor satisfaction and investigate possible service issues
+274,0,0,0.5300793327657256,Medium,Monitor satisfaction and investigate possible service issues
+275,0,0,0.1503118127479644,Low,Continue regular customer engagement
+276,0,1,0.8305101013840125,High,Prioritize customer contact and discuss suitable retention options
+277,1,1,0.8617545281192889,High,Prioritize customer contact and discuss suitable retention options
+278,0,1,0.7707847951146569,High,Prioritize customer contact and discuss suitable retention options
+279,1,1,0.9247650398891023,High,Prioritize customer contact and discuss suitable retention options
+280,0,0,0.29860098876539953,Low,Continue regular customer engagement
+281,0,1,0.7742723572716854,High,Prioritize customer contact and discuss suitable retention options
+282,0,0,0.29188036967310854,Low,Continue regular customer engagement
+283,0,1,0.683057080658875,High,Prioritize customer contact and discuss suitable retention options
+284,0,0,0.12839864249167812,Low,Continue regular customer engagement
+285,0,1,0.7614903106541915,High,Prioritize customer contact and discuss suitable retention options
+286,1,1,0.9112922182578621,High,Prioritize customer contact and discuss suitable retention options
+287,1,0,0.44276512114536176,Medium,Monitor satisfaction and investigate possible service issues
+288,0,0,0.17430801733350318,Low,Continue regular customer engagement
+289,1,1,0.797539254919458,High,Prioritize customer contact and discuss suitable retention options
+290,0,0,0.07773175514276673,Low,Continue regular customer engagement
+291,0,0,0.3887592985625955,Medium,Monitor satisfaction and investigate possible service issues
+292,0,0,0.37426028488488605,Medium,Monitor satisfaction and investigate possible service issues
+293,0,0,0.10898871882253718,Low,Continue regular customer engagement
+294,0,0,0.17664435704437173,Low,Continue regular customer engagement
+295,0,0,0.23967468098084233,Low,Continue regular customer engagement
+296,0,0,0.5376946554871139,Medium,Monitor satisfaction and investigate possible service issues
+297,0,0,0.5990432733823824,Medium,Monitor satisfaction and investigate possible service issues
+298,1,0,0.25727502600411506,Low,Continue regular customer engagement
+299,0,0,0.09464192699811814,Low,Continue regular customer engagement
+300,0,0,0.15683824164164922,Low,Continue regular customer engagement
+301,0,0,0.018324290696712417,Low,Continue regular customer engagement
+302,1,0,0.583195416123496,Medium,Monitor satisfaction and investigate possible service issues
+303,0,1,0.8268942441565462,High,Prioritize customer contact and discuss suitable retention options
+304,0,0,0.05639119495185321,Low,Continue regular customer engagement
+305,1,1,0.8997088090952204,High,Prioritize customer contact and discuss suitable retention options
+306,0,0,0.3986505203920256,Medium,Monitor satisfaction and investigate possible service issues
+307,0,0,0.12219400971615252,Low,Continue regular customer engagement
+308,0,0,0.3409118535270621,Medium,Monitor satisfaction and investigate possible service issues
+309,0,0,0.4109020238001171,Medium,Monitor satisfaction and investigate possible service issues
+310,0,0,0.4279463830287419,Medium,Monitor satisfaction and investigate possible service issues
+311,0,1,0.8612588470855846,High,Prioritize customer contact and discuss suitable retention options
+312,0,1,0.8191087173389788,High,Prioritize customer contact and discuss suitable retention options
+313,0,0,0.13202449868196311,Low,Continue regular customer engagement
+314,0,0,0.06839039784238737,Low,Continue regular customer engagement
+315,0,0,0.16120560470796702,Low,Continue regular customer engagement
+316,0,0,0.049585059781076586,Low,Continue regular customer engagement
+317,0,0,0.23272857898629618,Low,Continue regular customer engagement
+318,0,0,0.23050734348380555,Low,Continue regular customer engagement
+319,1,0,0.5195192070879531,Medium,Monitor satisfaction and investigate possible service issues
+320,1,1,0.7967037237960255,High,Prioritize customer contact and discuss suitable retention options
+321,0,1,0.7080555636005353,High,Prioritize customer contact and discuss suitable retention options
+322,0,1,0.8255541713649626,High,Prioritize customer contact and discuss suitable retention options
+323,1,0,0.5545964059850021,Medium,Monitor satisfaction and investigate possible service issues
+324,0,0,0.29572835604123554,Low,Continue regular customer engagement
+325,0,0,0.5148242372640585,Medium,Monitor satisfaction and investigate possible service issues
+326,0,0,0.09633974746624394,Low,Continue regular customer engagement
+327,1,0,0.12834758464513388,Low,Continue regular customer engagement
+328,0,1,0.7633137674859226,High,Prioritize customer contact and discuss suitable retention options
+329,0,0,0.2562136344808369,Low,Continue regular customer engagement
+330,0,0,0.03001303590336512,Low,Continue regular customer engagement
+331,0,0,0.3974860580721247,Medium,Monitor satisfaction and investigate possible service issues
+332,1,0,0.43030220671821534,Medium,Monitor satisfaction and investigate possible service issues
+333,0,0,0.11506257646203455,Low,Continue regular customer engagement
+334,0,0,0.0990164179055567,Low,Continue regular customer engagement
+335,0,0,0.04300519402962082,Low,Continue regular customer engagement
+336,0,0,0.043703509698266335,Low,Continue regular customer engagement
+337,1,1,0.7617277046610892,High,Prioritize customer contact and discuss suitable retention options
+338,0,0,0.13128076861516683,Low,Continue regular customer engagement
+339,0,0,0.015475535759294504,Low,Continue regular customer engagement
+340,0,0,0.06321517872008477,Low,Continue regular customer engagement
+341,0,0,0.04137838836896141,Low,Continue regular customer engagement
+342,1,1,0.8774645366950423,High,Prioritize customer contact and discuss suitable retention options
+343,0,0,0.30495089051519525,Medium,Monitor satisfaction and investigate possible service issues
+344,1,0,0.6028669230635242,High,Prioritize customer contact and discuss suitable retention options
+345,1,1,0.9175333187348171,High,Prioritize customer contact and discuss suitable retention options
+346,1,0,0.1391371604742491,Low,Continue regular customer engagement
+347,0,0,0.03798277282919078,Low,Continue regular customer engagement
+348,1,1,0.7327369239323314,High,Prioritize customer contact and discuss suitable retention options
+349,0,0,0.3876801741137851,Medium,Monitor satisfaction and investigate possible service issues
+350,1,1,0.8392094263384049,High,Prioritize customer contact and discuss suitable retention options
+351,0,0,0.2955026990859862,Low,Continue regular customer engagement
+352,1,0,0.22797363592211314,Low,Continue regular customer engagement
+353,0,0,0.5429837309061836,Medium,Monitor satisfaction and investigate possible service issues
+354,0,0,0.5046407618522553,Medium,Monitor satisfaction and investigate possible service issues
+355,0,0,0.011936310335942793,Low,Continue regular customer engagement
+356,0,0,0.44540563616321455,Medium,Monitor satisfaction and investigate possible service issues
+357,0,0,0.18099537523281753,Low,Continue regular customer engagement
+358,0,1,0.7775159295011763,High,Prioritize customer contact and discuss suitable retention options
+359,0,0,0.13035850755219114,Low,Continue regular customer engagement
+360,1,1,0.9104263297917384,High,Prioritize customer contact and discuss suitable retention options
+361,1,1,0.860270824756982,High,Prioritize customer contact and discuss suitable retention options
+362,0,0,0.06909371117713042,Low,Continue regular customer engagement
+363,0,0,0.3328512333718078,Medium,Monitor satisfaction and investigate possible service issues
+364,0,0,0.5155274553022481,Medium,Monitor satisfaction and investigate possible service issues
+365,0,0,0.19619750249022658,Low,Continue regular customer engagement
+366,1,0,0.19449763922223073,Low,Continue regular customer engagement
+367,0,0,0.47748796188246745,Medium,Monitor satisfaction and investigate possible service issues
+368,0,0,0.14529880673249315,Low,Continue regular customer engagement
+369,0,0,0.08119370682579467,Low,Continue regular customer engagement
+370,0,1,0.8444537351608417,High,Prioritize customer contact and discuss suitable retention options
+371,1,1,0.7966933093234264,High,Prioritize customer contact and discuss suitable retention options
+372,0,1,0.8164783432052446,High,Prioritize customer contact and discuss suitable retention options
+373,0,0,0.5087258131777207,Medium,Monitor satisfaction and investigate possible service issues
+374,0,0,0.5835856804370464,Medium,Monitor satisfaction and investigate possible service issues
+375,1,0,0.5157062553483542,Medium,Monitor satisfaction and investigate possible service issues
+376,0,0,0.3117829330055858,Medium,Monitor satisfaction and investigate possible service issues
+377,0,0,0.18338158883496786,Low,Continue regular customer engagement
+378,0,0,0.583652515738081,Medium,Monitor satisfaction and investigate possible service issues
+379,1,0,0.23673815869893924,Low,Continue regular customer engagement
+380,0,0,0.1145046335191703,Low,Continue regular customer engagement
+381,0,0,0.26265576418739084,Low,Continue regular customer engagement
+382,0,0,0.34745966983059334,Medium,Monitor satisfaction and investigate possible service issues
+383,0,0,0.03676900962437084,Low,Continue regular customer engagement
+384,0,1,0.8353263112693848,High,Prioritize customer contact and discuss suitable retention options
+385,1,0,0.6146565243882852,High,Prioritize customer contact and discuss suitable retention options
+386,0,0,0.6109369417203889,High,Prioritize customer contact and discuss suitable retention options
+387,1,0,0.6023684813589358,High,Prioritize customer contact and discuss suitable retention options
+388,1,1,0.8794177730091643,High,Prioritize customer contact and discuss suitable retention options
+389,0,0,0.05378785972221686,Low,Continue regular customer engagement
+390,1,1,0.6572735910304767,High,Prioritize customer contact and discuss suitable retention options
+391,0,0,0.05817428943694747,Low,Continue regular customer engagement
+392,0,0,0.17407240065071852,Low,Continue regular customer engagement
+393,0,1,0.6946102671867532,High,Prioritize customer contact and discuss suitable retention options
+394,0,0,0.11736803447329398,Low,Continue regular customer engagement
+395,0,0,0.45133047258890074,Medium,Monitor satisfaction and investigate possible service issues
+396,0,0,0.2168247881560917,Low,Continue regular customer engagement
+397,0,0,0.054903694345370437,Low,Continue regular customer engagement
+398,0,0,0.08856610258969527,Low,Continue regular customer engagement
+399,0,0,0.02388097777493595,Low,Continue regular customer engagement
+400,1,1,0.687647280137929,High,Prioritize customer contact and discuss suitable retention options
+401,0,0,0.09668123760017998,Low,Continue regular customer engagement
+402,0,0,0.47575016117242325,Medium,Monitor satisfaction and investigate possible service issues
+403,0,0,0.5291341402782077,Medium,Monitor satisfaction and investigate possible service issues
+404,0,0,0.496479821124404,Medium,Monitor satisfaction and investigate possible service issues
+405,0,0,0.015558745760799754,Low,Continue regular customer engagement
+406,0,0,0.41383523864653854,Medium,Monitor satisfaction and investigate possible service issues
+407,1,0,0.19961953910768954,Low,Continue regular customer engagement
+408,0,1,0.6626020733611269,High,Prioritize customer contact and discuss suitable retention options
+409,1,1,0.849400824492946,High,Prioritize customer contact and discuss suitable retention options
+410,0,0,0.12977465773865327,Low,Continue regular customer engagement
+411,1,0,0.46644370378653033,Medium,Monitor satisfaction and investigate possible service issues
+412,1,1,0.797110538035587,High,Prioritize customer contact and discuss suitable retention options
+413,1,1,0.8123049980498238,High,Prioritize customer contact and discuss suitable retention options
+414,1,1,0.7408700756398572,High,Prioritize customer contact and discuss suitable retention options
+415,0,0,0.32451284138355774,Medium,Monitor satisfaction and investigate possible service issues
+416,0,0,0.5294114897735376,Medium,Monitor satisfaction and investigate possible service issues
+417,0,0,0.3964551131880502,Medium,Monitor satisfaction and investigate possible service issues
+418,1,1,0.9262594486939817,High,Prioritize customer contact and discuss suitable retention options
+419,1,0,0.2184842379510787,Low,Continue regular customer engagement
+420,1,1,0.6939149539199786,High,Prioritize customer contact and discuss suitable retention options
+421,0,0,0.15440135009559097,Low,Continue regular customer engagement
+422,0,0,0.34614638798539005,Medium,Monitor satisfaction and investigate possible service issues
+423,0,1,0.7037005133563136,High,Prioritize customer contact and discuss suitable retention options
+424,1,1,0.667256292373445,High,Prioritize customer contact and discuss suitable retention options
+425,0,0,0.029324021202784475,Low,Continue regular customer engagement
+426,0,0,0.3983888821953065,Medium,Monitor satisfaction and investigate possible service issues
+427,0,1,0.7569510395189718,High,Prioritize customer contact and discuss suitable retention options
+428,0,1,0.8247603772672858,High,Prioritize customer contact and discuss suitable retention options
+429,0,0,0.013322272986166237,Low,Continue regular customer engagement
+430,0,0,0.013049451203287795,Low,Continue regular customer engagement
+431,0,0,0.06048915731277745,Low,Continue regular customer engagement
+432,0,0,0.40928307409724196,Medium,Monitor satisfaction and investigate possible service issues
+433,0,0,0.34064214668929443,Medium,Monitor satisfaction and investigate possible service issues
+434,0,0,0.3091654962117632,Medium,Monitor satisfaction and investigate possible service issues
+435,0,0,0.2884628201856384,Low,Continue regular customer engagement
+436,1,1,0.8718447364862509,High,Prioritize customer contact and discuss suitable retention options
+437,0,0,0.036689932920149194,Low,Continue regular customer engagement
+438,0,0,0.08593355434773059,Low,Continue regular customer engagement
+439,0,0,0.21958315518455487,Low,Continue regular customer engagement
+440,0,0,0.5578771172296966,Medium,Monitor satisfaction and investigate possible service issues
+441,0,0,0.3228162615126164,Medium,Monitor satisfaction and investigate possible service issues
+442,1,1,0.7831063692153291,High,Prioritize customer contact and discuss suitable retention options
+443,0,0,0.231745463230494,Low,Continue regular customer engagement
+444,0,0,0.3661642588932709,Medium,Monitor satisfaction and investigate possible service issues
+445,1,0,0.4554822914548626,Medium,Monitor satisfaction and investigate possible service issues
+446,0,0,0.5089865176356582,Medium,Monitor satisfaction and investigate possible service issues
+447,0,0,0.023688309431306412,Low,Continue regular customer engagement
+448,0,0,0.07699390561093014,Low,Continue regular customer engagement
+449,0,1,0.8095974010192415,High,Prioritize customer contact and discuss suitable retention options
+450,0,1,0.8455111598338462,High,Prioritize customer contact and discuss suitable retention options
+451,0,1,0.7178116903992159,High,Prioritize customer contact and discuss suitable retention options
+452,0,0,0.2083004778540637,Low,Continue regular customer engagement
+453,0,0,0.42210103574681235,Medium,Monitor satisfaction and investigate possible service issues
+454,0,0,0.4552951759118128,Medium,Monitor satisfaction and investigate possible service issues
+455,0,1,0.9185858006382371,High,Prioritize customer contact and discuss suitable retention options
+456,0,0,0.012658006971471278,Low,Continue regular customer engagement
+457,1,0,0.49226902538603545,Medium,Monitor satisfaction and investigate possible service issues
+458,0,0,0.02772551415530872,Low,Continue regular customer engagement
+459,0,0,0.032550365499531,Low,Continue regular customer engagement
+460,1,1,0.6813178117682492,High,Prioritize customer contact and discuss suitable retention options
+461,0,0,0.05083667657720306,Low,Continue regular customer engagement
+462,1,0,0.3861330422521042,Medium,Monitor satisfaction and investigate possible service issues
+463,0,0,0.5615458427918234,Medium,Monitor satisfaction and investigate possible service issues
+464,0,0,0.09533659164732979,Low,Continue regular customer engagement
+465,0,0,0.024140275941944043,Low,Continue regular customer engagement
+466,0,0,0.1513838801635274,Low,Continue regular customer engagement
+467,0,0,0.0852956181172066,Low,Continue regular customer engagement
+468,0,1,0.7174173730793115,High,Prioritize customer contact and discuss suitable retention options
+469,0,0,0.27160500143114275,Low,Continue regular customer engagement
+470,0,0,0.14565483632173476,Low,Continue regular customer engagement
+471,1,0,0.39479075686730297,Medium,Monitor satisfaction and investigate possible service issues
+472,0,0,0.22808594365154325,Low,Continue regular customer engagement
+473,0,0,0.32103687816283116,Medium,Monitor satisfaction and investigate possible service issues
+474,0,0,0.09135009814537798,Low,Continue regular customer engagement
+475,0,0,0.27661964351572077,Low,Continue regular customer engagement
+476,0,0,0.012542187871551787,Low,Continue regular customer engagement
+477,0,0,0.5196873284767926,Medium,Monitor satisfaction and investigate possible service issues
+478,0,1,0.6583297227320588,High,Prioritize customer contact and discuss suitable retention options
+479,1,1,0.7093959995528898,High,Prioritize customer contact and discuss suitable retention options
+480,1,1,0.7168831389497321,High,Prioritize customer contact and discuss suitable retention options
+481,0,1,0.8186114388548948,High,Prioritize customer contact and discuss suitable retention options
+482,0,1,0.8152389116330455,High,Prioritize customer contact and discuss suitable retention options
+483,0,0,0.012773526109405318,Low,Continue regular customer engagement
+484,1,0,0.6217612062504885,High,Prioritize customer contact and discuss suitable retention options
+485,0,1,0.9002787732164498,High,Prioritize customer contact and discuss suitable retention options
+486,0,0,0.07180324830011721,Low,Continue regular customer engagement
+487,0,0,0.030153453068331244,Low,Continue regular customer engagement
+488,0,0,0.08807536649042937,Low,Continue regular customer engagement
+489,1,1,0.9071832300290795,High,Prioritize customer contact and discuss suitable retention options
+490,0,0,0.5814837638417178,Medium,Monitor satisfaction and investigate possible service issues
+491,0,0,0.6537620848300396,High,Prioritize customer contact and discuss suitable retention options
+492,0,1,0.8728152041945477,High,Prioritize customer contact and discuss suitable retention options
+493,0,0,0.3707999920991895,Medium,Monitor satisfaction and investigate possible service issues
+494,0,1,0.7627256809881675,High,Prioritize customer contact and discuss suitable retention options
+495,0,0,0.021029020401971448,Low,Continue regular customer engagement
+496,0,1,0.804951424485042,High,Prioritize customer contact and discuss suitable retention options
+497,0,0,0.5220322094799724,Medium,Monitor satisfaction and investigate possible service issues
+498,1,0,0.5022304849949102,Medium,Monitor satisfaction and investigate possible service issues
+499,0,0,0.055369481793251636,Low,Continue regular customer engagement
+500,0,1,0.7607713577096114,High,Prioritize customer contact and discuss suitable retention options
+501,0,0,0.03856734011960417,Low,Continue regular customer engagement
+502,0,0,0.5087554435422132,Medium,Monitor satisfaction and investigate possible service issues
+503,0,1,0.767726460249649,High,Prioritize customer contact and discuss suitable retention options
+504,0,0,0.011850581911308068,Low,Continue regular customer engagement
+505,0,0,0.11339714648070746,Low,Continue regular customer engagement
+506,0,0,0.051475664340247744,Low,Continue regular customer engagement
+507,0,0,0.5141361443214856,Medium,Monitor satisfaction and investigate possible service issues
+508,0,0,0.01734067106132169,Low,Continue regular customer engagement
+509,1,0,0.6149923532774975,High,Prioritize customer contact and discuss suitable retention options
+510,0,0,0.021202298510787386,Low,Continue regular customer engagement
+511,1,1,0.9343011418142826,High,Prioritize customer contact and discuss suitable retention options
+512,1,0,0.2571683534310448,Low,Continue regular customer engagement
+513,0,0,0.31319889745227875,Medium,Monitor satisfaction and investigate possible service issues
+514,0,0,0.13590776455641243,Low,Continue regular customer engagement
+515,1,1,0.7777214000061535,High,Prioritize customer contact and discuss suitable retention options
+516,0,0,0.2832447337287093,Low,Continue regular customer engagement
+517,0,0,0.14879480629774888,Low,Continue regular customer engagement
+518,0,0,0.4402043061131866,Medium,Monitor satisfaction and investigate possible service issues
+519,0,1,0.6904282580932541,High,Prioritize customer contact and discuss suitable retention options
+520,0,0,0.34862019783815373,Medium,Monitor satisfaction and investigate possible service issues
+521,0,0,0.10946551800881243,Low,Continue regular customer engagement
+522,0,0,0.5287594468200091,Medium,Monitor satisfaction and investigate possible service issues
+523,0,0,0.39620994031819157,Medium,Monitor satisfaction and investigate possible service issues
+524,1,1,0.6816259242433131,High,Prioritize customer contact and discuss suitable retention options
+525,1,0,0.26218969363361294,Low,Continue regular customer engagement
+526,1,0,0.6406254203501737,High,Prioritize customer contact and discuss suitable retention options
+527,0,0,0.32399509037347024,Medium,Monitor satisfaction and investigate possible service issues
+528,0,0,0.4280423855694451,Medium,Monitor satisfaction and investigate possible service issues
+529,0,0,0.6038163714556842,High,Prioritize customer contact and discuss suitable retention options
+530,0,0,0.020893420554892846,Low,Continue regular customer engagement
+531,0,1,0.7146334856563159,High,Prioritize customer contact and discuss suitable retention options
+532,0,0,0.2066662523712245,Low,Continue regular customer engagement
+533,0,0,0.5162596447515535,Medium,Monitor satisfaction and investigate possible service issues
+534,1,1,0.8726846996727325,High,Prioritize customer contact and discuss suitable retention options
+535,1,0,0.19628292749405532,Low,Continue regular customer engagement
+536,0,0,0.3772043967272302,Medium,Monitor satisfaction and investigate possible service issues
+537,0,1,0.67715722314781,High,Prioritize customer contact and discuss suitable retention options
+538,0,0,0.018256624991872614,Low,Continue regular customer engagement
+539,1,1,0.8586202146588406,High,Prioritize customer contact and discuss suitable retention options
+540,1,0,0.4096711797725683,Medium,Monitor satisfaction and investigate possible service issues
+541,1,0,0.43231011233176153,Medium,Monitor satisfaction and investigate possible service issues
+542,0,0,0.2736381844548049,Low,Continue regular customer engagement
+543,1,1,0.8497544710799476,High,Prioritize customer contact and discuss suitable retention options
+544,0,0,0.13631471259559527,Low,Continue regular customer engagement
+545,1,1,0.810137009781398,High,Prioritize customer contact and discuss suitable retention options
+546,0,0,0.43568931990668575,Medium,Monitor satisfaction and investigate possible service issues
+547,0,0,0.08230782515108094,Low,Continue regular customer engagement
+548,0,0,0.1353557041962689,Low,Continue regular customer engagement
+549,0,1,0.7711374173334477,High,Prioritize customer contact and discuss suitable retention options
+550,0,0,0.021255744691101967,Low,Continue regular customer engagement
+551,1,0,0.40778190033269046,Medium,Monitor satisfaction and investigate possible service issues
+552,0,0,0.08820591957714918,Low,Continue regular customer engagement
+553,0,1,0.6753104797171036,High,Prioritize customer contact and discuss suitable retention options
+554,0,0,0.30036907517892153,Medium,Monitor satisfaction and investigate possible service issues
+555,0,0,0.023462917957477004,Low,Continue regular customer engagement
+556,0,1,0.8761885666242725,High,Prioritize customer contact and discuss suitable retention options
+557,1,1,0.8015345495249474,High,Prioritize customer contact and discuss suitable retention options
+558,1,1,0.7662509947753571,High,Prioritize customer contact and discuss suitable retention options
+559,0,0,0.2791124530476607,Low,Continue regular customer engagement
+560,0,1,0.7377798545390646,High,Prioritize customer contact and discuss suitable retention options
+561,0,0,0.26571040824466324,Low,Continue regular customer engagement
+562,1,0,0.5356298671255405,Medium,Monitor satisfaction and investigate possible service issues
+563,1,0,0.5971953894427169,Medium,Monitor satisfaction and investigate possible service issues
+564,0,0,0.15614776149705165,Low,Continue regular customer engagement
+565,0,0,0.11747933832956547,Low,Continue regular customer engagement
+566,0,1,0.7159850524572886,High,Prioritize customer contact and discuss suitable retention options
+567,1,1,0.8070839856572939,High,Prioritize customer contact and discuss suitable retention options
+568,1,1,0.8811045260376679,High,Prioritize customer contact and discuss suitable retention options
+569,1,1,0.8895200098680273,High,Prioritize customer contact and discuss suitable retention options
+570,1,0,0.6541399237769888,High,Prioritize customer contact and discuss suitable retention options
+571,0,0,0.033408263354425975,Low,Continue regular customer engagement
+572,0,0,0.5495951415311772,Medium,Monitor satisfaction and investigate possible service issues
+573,1,1,0.8440238066184054,High,Prioritize customer contact and discuss suitable retention options
+574,1,1,0.7304639373545333,High,Prioritize customer contact and discuss suitable retention options
+575,0,0,0.030143801995943804,Low,Continue regular customer engagement
+576,1,0,0.4807441310892496,Medium,Monitor satisfaction and investigate possible service issues
+577,0,0,0.6424682940111136,High,Prioritize customer contact and discuss suitable retention options
+578,0,0,0.4624721055830424,Medium,Monitor satisfaction and investigate possible service issues
+579,0,0,0.022145609194655642,Low,Continue regular customer engagement
+580,0,0,0.0814475581588991,Low,Continue regular customer engagement
+581,0,0,0.014260650383264602,Low,Continue regular customer engagement
+582,0,1,0.7995575386988163,High,Prioritize customer contact and discuss suitable retention options
+583,0,0,0.013374839895432743,Low,Continue regular customer engagement
+584,0,0,0.01093636727941775,Low,Continue regular customer engagement
+585,0,0,0.13872107796354102,Low,Continue regular customer engagement
+586,0,0,0.07266525941394657,Low,Continue regular customer engagement
+587,1,1,0.8900465915008092,High,Prioritize customer contact and discuss suitable retention options
+588,0,0,0.3380546984197506,Medium,Monitor satisfaction and investigate possible service issues
+589,0,0,0.17535016608839063,Low,Continue regular customer engagement
+590,1,1,0.7530069312787004,High,Prioritize customer contact and discuss suitable retention options
+591,0,0,0.528117118269736,Medium,Monitor satisfaction and investigate possible service issues
+592,0,0,0.5849255400526101,Medium,Monitor satisfaction and investigate possible service issues
+593,0,0,0.5369421767308343,Medium,Monitor satisfaction and investigate possible service issues
+594,1,1,0.8607844349336192,High,Prioritize customer contact and discuss suitable retention options
+595,1,1,0.8560991967309026,High,Prioritize customer contact and discuss suitable retention options
+596,0,0,0.19192430869406446,Low,Continue regular customer engagement
+597,0,0,0.029651250750343597,Low,Continue regular customer engagement
+598,0,0,0.037518748298798296,Low,Continue regular customer engagement
+599,1,0,0.5974962524243732,Medium,Monitor satisfaction and investigate possible service issues
+600,0,0,0.1625957786858203,Low,Continue regular customer engagement
+601,0,0,0.34581949153406427,Medium,Monitor satisfaction and investigate possible service issues
+602,1,1,0.7896833339050855,High,Prioritize customer contact and discuss suitable retention options
+603,0,0,0.024997183525719942,Low,Continue regular customer engagement
+604,1,1,0.8268331609407561,High,Prioritize customer contact and discuss suitable retention options
+605,0,1,0.8877178843740983,High,Prioritize customer contact and discuss suitable retention options
+606,0,0,0.08203189977255429,Low,Continue regular customer engagement
+607,1,0,0.16672977122594726,Low,Continue regular customer engagement
+608,1,0,0.5380242853230186,Medium,Monitor satisfaction and investigate possible service issues
+609,0,0,0.4118149764366974,Medium,Monitor satisfaction and investigate possible service issues
+610,0,0,0.07911265298500782,Low,Continue regular customer engagement
+611,0,0,0.014034271074586874,Low,Continue regular customer engagement
+612,0,0,0.3918942178756171,Medium,Monitor satisfaction and investigate possible service issues
+613,0,0,0.20290299970097642,Low,Continue regular customer engagement
+614,1,0,0.5820832561845769,Medium,Monitor satisfaction and investigate possible service issues
+615,0,0,0.33217484931392666,Medium,Monitor satisfaction and investigate possible service issues
+616,0,0,0.38616848429746686,Medium,Monitor satisfaction and investigate possible service issues
+617,0,0,0.0425316548615961,Low,Continue regular customer engagement
+618,0,0,0.07177471967680292,Low,Continue regular customer engagement
+619,1,1,0.9218923860736795,High,Prioritize customer contact and discuss suitable retention options
+620,1,0,0.3956825071957924,Medium,Monitor satisfaction and investigate possible service issues
+621,0,0,0.12315039867797244,Low,Continue regular customer engagement
+622,1,1,0.9143450074963346,High,Prioritize customer contact and discuss suitable retention options
+623,1,1,0.7288373173902232,High,Prioritize customer contact and discuss suitable retention options
+624,0,0,0.016860868586454213,Low,Continue regular customer engagement
+625,0,0,0.035811180593671665,Low,Continue regular customer engagement
+626,1,0,0.3811573438776492,Medium,Monitor satisfaction and investigate possible service issues
+627,0,0,0.027845798585905194,Low,Continue regular customer engagement
+628,1,1,0.9400439473955663,High,Prioritize customer contact and discuss suitable retention options
+629,1,1,0.7436865638334887,High,Prioritize customer contact and discuss suitable retention options
+630,0,1,0.8778691316092487,High,Prioritize customer contact and discuss suitable retention options
+631,1,1,0.9164211222805958,High,Prioritize customer contact and discuss suitable retention options
+632,0,0,0.10802007054442994,Low,Continue regular customer engagement
+633,1,1,0.6921201475740071,High,Prioritize customer contact and discuss suitable retention options
+634,0,0,0.07546677317523492,Low,Continue regular customer engagement
+635,0,1,0.7888598343074213,High,Prioritize customer contact and discuss suitable retention options
+636,0,0,0.3107316349240641,Medium,Monitor satisfaction and investigate possible service issues
+637,0,0,0.18190852551024153,Low,Continue regular customer engagement
+638,0,0,0.0932226759866332,Low,Continue regular customer engagement
+639,1,0,0.2641243596923583,Low,Continue regular customer engagement
+640,0,0,0.3670674967261065,Medium,Monitor satisfaction and investigate possible service issues
+641,0,0,0.013412146576303244,Low,Continue regular customer engagement
+642,0,1,0.7929320441975013,High,Prioritize customer contact and discuss suitable retention options
+643,0,0,0.15118998823260069,Low,Continue regular customer engagement
+644,0,0,0.19443242230928529,Low,Continue regular customer engagement
+645,0,0,0.026471946799716498,Low,Continue regular customer engagement
+646,0,0,0.5624244689987923,Medium,Monitor satisfaction and investigate possible service issues
+647,0,0,0.48678331674607683,Medium,Monitor satisfaction and investigate possible service issues
+648,1,1,0.9450626785231034,High,Prioritize customer contact and discuss suitable retention options
+649,1,1,0.8306784774544567,High,Prioritize customer contact and discuss suitable retention options
+650,1,0,0.41541763355791494,Medium,Monitor satisfaction and investigate possible service issues
+651,1,1,0.7134413617336678,High,Prioritize customer contact and discuss suitable retention options
+652,0,0,0.515069815042463,Medium,Monitor satisfaction and investigate possible service issues
+653,1,0,0.31684619749601173,Medium,Monitor satisfaction and investigate possible service issues
+654,1,1,0.8178983183906378,High,Prioritize customer contact and discuss suitable retention options
+655,1,1,0.9257827080404532,High,Prioritize customer contact and discuss suitable retention options
+656,0,0,0.010085402905364771,Low,Continue regular customer engagement
+657,0,0,0.19822642144459482,Low,Continue regular customer engagement
+658,0,0,0.3919416029393881,Medium,Monitor satisfaction and investigate possible service issues
+659,0,1,0.7033180276526342,High,Prioritize customer contact and discuss suitable retention options
+660,0,0,0.026062142616835243,Low,Continue regular customer engagement
+661,0,0,0.18585894869712857,Low,Continue regular customer engagement
+662,0,0,0.1308358106706319,Low,Continue regular customer engagement
+663,0,0,0.03249654697568296,Low,Continue regular customer engagement
+664,0,1,0.8808203649435793,High,Prioritize customer contact and discuss suitable retention options
+665,0,0,0.009102585543286133,Low,Continue regular customer engagement
+666,0,0,0.30278062658975535,Medium,Monitor satisfaction and investigate possible service issues
+667,0,0,0.5694507900251241,Medium,Monitor satisfaction and investigate possible service issues
+668,0,0,0.14599334133150937,Low,Continue regular customer engagement
+669,0,0,0.5009877784685285,Medium,Monitor satisfaction and investigate possible service issues
+670,0,0,0.2931060368203807,Low,Continue regular customer engagement
+671,0,0,0.6399630050627759,High,Prioritize customer contact and discuss suitable retention options
+672,0,0,0.4004528923304548,Medium,Monitor satisfaction and investigate possible service issues
+673,0,0,0.3030068087622133,Medium,Monitor satisfaction and investigate possible service issues
+674,0,0,0.22420743837982304,Low,Continue regular customer engagement
+675,1,1,0.8128203791352476,High,Prioritize customer contact and discuss suitable retention options
+676,0,0,0.09917063993907607,Low,Continue regular customer engagement
+677,0,0,0.06356170275959418,Low,Continue regular customer engagement
+678,1,0,0.3810059999680299,Medium,Monitor satisfaction and investigate possible service issues
+679,1,1,0.6883936035238661,High,Prioritize customer contact and discuss suitable retention options
+680,1,0,0.42106165902739007,Medium,Monitor satisfaction and investigate possible service issues
+681,0,0,0.05290838614443317,Low,Continue regular customer engagement
+682,0,0,0.20336417404426577,Low,Continue regular customer engagement
+683,0,0,0.09564967019000177,Low,Continue regular customer engagement
+684,0,0,0.3956505322967214,Medium,Monitor satisfaction and investigate possible service issues
+685,0,1,0.7882056800752012,High,Prioritize customer contact and discuss suitable retention options
+686,1,1,0.8409621675568177,High,Prioritize customer contact and discuss suitable retention options
+687,0,0,0.591285430973268,Medium,Monitor satisfaction and investigate possible service issues
+688,1,0,0.035862944736028184,Low,Continue regular customer engagement
+689,0,0,0.6237938450874173,High,Prioritize customer contact and discuss suitable retention options
+690,0,0,0.5869018710677754,Medium,Monitor satisfaction and investigate possible service issues
+691,0,0,0.0853808569627444,Low,Continue regular customer engagement
+692,0,0,0.25278128496486246,Low,Continue regular customer engagement
+693,0,0,0.1515903255620873,Low,Continue regular customer engagement
+694,1,1,0.9084654948121093,High,Prioritize customer contact and discuss suitable retention options
+695,0,0,0.027940909996095456,Low,Continue regular customer engagement
+696,1,0,0.4490299046749434,Medium,Monitor satisfaction and investigate possible service issues
+697,0,0,0.11486972581503915,Low,Continue regular customer engagement
+698,0,0,0.38790914372284696,Medium,Monitor satisfaction and investigate possible service issues
+699,0,0,0.17150015804571545,Low,Continue regular customer engagement
+700,0,0,0.6188831436670115,High,Prioritize customer contact and discuss suitable retention options
+701,0,1,0.7301412331529914,High,Prioritize customer contact and discuss suitable retention options
+702,0,0,0.24724282118642305,Low,Continue regular customer engagement
+703,0,0,0.14810988067968897,Low,Continue regular customer engagement
+704,0,0,0.030001067889695372,Low,Continue regular customer engagement
+705,0,0,0.33676212902409725,Medium,Monitor satisfaction and investigate possible service issues
+706,0,0,0.01496047900641731,Low,Continue regular customer engagement
+707,0,0,0.4246704389612177,Medium,Monitor satisfaction and investigate possible service issues
+708,1,1,0.7321910685752446,High,Prioritize customer contact and discuss suitable retention options
+709,0,0,0.017740122275636698,Low,Continue regular customer engagement
+710,0,0,0.03669127812683369,Low,Continue regular customer engagement
+711,1,1,0.8912070295504088,High,Prioritize customer contact and discuss suitable retention options
+712,0,1,0.8849115897282037,High,Prioritize customer contact and discuss suitable retention options
+713,0,1,0.7063767879634595,High,Prioritize customer contact and discuss suitable retention options
+714,1,1,0.8960114502433081,High,Prioritize customer contact and discuss suitable retention options
+715,1,0,0.6298932094062043,High,Prioritize customer contact and discuss suitable retention options
+716,0,0,0.1746143358391078,Low,Continue regular customer engagement
+717,0,0,0.36158431912666317,Medium,Monitor satisfaction and investigate possible service issues
+718,1,0,0.4747980373257218,Medium,Monitor satisfaction and investigate possible service issues
+719,0,1,0.8307919688567672,High,Prioritize customer contact and discuss suitable retention options
+720,0,0,0.20959711331389472,Low,Continue regular customer engagement
+721,0,0,0.03446969606746976,Low,Continue regular customer engagement
+722,0,0,0.013721939918630162,Low,Continue regular customer engagement
+723,0,0,0.42206784568687644,Medium,Monitor satisfaction and investigate possible service issues
+724,0,1,0.7357738991553813,High,Prioritize customer contact and discuss suitable retention options
+725,0,0,0.0831948242505597,Low,Continue regular customer engagement
+726,0,1,0.7388177299568593,High,Prioritize customer contact and discuss suitable retention options
+727,0,1,0.771641109810051,High,Prioritize customer contact and discuss suitable retention options
+728,0,0,0.08015457653856793,Low,Continue regular customer engagement
+729,1,1,0.8966748353904151,High,Prioritize customer contact and discuss suitable retention options
+730,1,1,0.6592376587812205,High,Prioritize customer contact and discuss suitable retention options
+731,0,0,0.39909892647889983,Medium,Monitor satisfaction and investigate possible service issues
+732,1,0,0.5010502297956124,Medium,Monitor satisfaction and investigate possible service issues
+733,0,0,0.02377228829284807,Low,Continue regular customer engagement
+734,0,1,0.8515883279176982,High,Prioritize customer contact and discuss suitable retention options
+735,0,1,0.847509896417139,High,Prioritize customer contact and discuss suitable retention options
+736,1,1,0.7363869740017184,High,Prioritize customer contact and discuss suitable retention options
+737,0,0,0.1496120500621918,Low,Continue regular customer engagement
+738,0,0,0.37494731890353544,Medium,Monitor satisfaction and investigate possible service issues
+739,0,0,0.02070612186620089,Low,Continue regular customer engagement
+740,0,0,0.11879407389501868,Low,Continue regular customer engagement
+741,1,1,0.8769426492833773,High,Prioritize customer contact and discuss suitable retention options
+742,0,1,0.7029587255473166,High,Prioritize customer contact and discuss suitable retention options
+743,0,0,0.3970993465684258,Medium,Monitor satisfaction and investigate possible service issues
+744,1,1,0.8527364187189438,High,Prioritize customer contact and discuss suitable retention options
+745,1,0,0.5137233888920189,Medium,Monitor satisfaction and investigate possible service issues
+746,1,0,0.4531120246040216,Medium,Monitor satisfaction and investigate possible service issues
+747,0,1,0.9016877597143436,High,Prioritize customer contact and discuss suitable retention options
+748,0,0,0.03688404742527568,Low,Continue regular customer engagement
+749,0,0,0.05302525458943477,Low,Continue regular customer engagement
+750,1,1,0.8728771206093666,High,Prioritize customer contact and discuss suitable retention options
+751,0,0,0.09728473991863146,Low,Continue regular customer engagement
+752,0,0,0.022180790942146943,Low,Continue regular customer engagement
+753,0,0,0.022968572047321712,Low,Continue regular customer engagement
+754,0,0,0.45383645196860195,Medium,Monitor satisfaction and investigate possible service issues
+755,0,0,0.06039606057018571,Low,Continue regular customer engagement
+756,0,0,0.048446872771592424,Low,Continue regular customer engagement
+757,0,0,0.5513448076881082,Medium,Monitor satisfaction and investigate possible service issues
+758,1,0,0.2311777126229643,Low,Continue regular customer engagement
+759,1,0,0.635155265674305,High,Prioritize customer contact and discuss suitable retention options
+760,0,0,0.1501314439206694,Low,Continue regular customer engagement
+761,0,1,0.7298716045704631,High,Prioritize customer contact and discuss suitable retention options
+762,0,0,0.016329911111221496,Low,Continue regular customer engagement
+763,1,1,0.9029954251839507,High,Prioritize customer contact and discuss suitable retention options
+764,0,0,0.6259136335020326,High,Prioritize customer contact and discuss suitable retention options
+765,0,1,0.7632724068289953,High,Prioritize customer contact and discuss suitable retention options
+766,0,0,0.48933174620929065,Medium,Monitor satisfaction and investigate possible service issues
+767,0,0,0.6555575017305285,High,Prioritize customer contact and discuss suitable retention options
+768,0,0,0.2871860372464706,Low,Continue regular customer engagement
+769,0,0,0.1131796640514643,Low,Continue regular customer engagement
+770,0,0,0.12805597481043937,Low,Continue regular customer engagement
+771,0,1,0.7643317155352803,High,Prioritize customer contact and discuss suitable retention options
+772,1,1,0.8665438041801966,High,Prioritize customer contact and discuss suitable retention options
+773,0,0,0.214126223274507,Low,Continue regular customer engagement
+774,0,0,0.6409707276282438,High,Prioritize customer contact and discuss suitable retention options
+775,1,1,0.894444950645323,High,Prioritize customer contact and discuss suitable retention options
+776,0,1,0.7417644136692926,High,Prioritize customer contact and discuss suitable retention options
+777,1,0,0.5606225659822596,Medium,Monitor satisfaction and investigate possible service issues
+778,0,0,0.18836253621827864,Low,Continue regular customer engagement
+779,0,0,0.14711112910546956,Low,Continue regular customer engagement
+780,0,0,0.05567642263998377,Low,Continue regular customer engagement
+781,0,0,0.22380164111451079,Low,Continue regular customer engagement
+782,0,0,0.0788268320673475,Low,Continue regular customer engagement
+783,0,0,0.07529992673245989,Low,Continue regular customer engagement
+784,1,1,0.7336509489794268,High,Prioritize customer contact and discuss suitable retention options
+785,0,0,0.050840829895452994,Low,Continue regular customer engagement
+786,0,0,0.04287561728708975,Low,Continue regular customer engagement
+787,0,0,0.6030771596119964,High,Prioritize customer contact and discuss suitable retention options
+788,0,0,0.25955987205904774,Low,Continue regular customer engagement
+789,1,1,0.923999455444966,High,Prioritize customer contact and discuss suitable retention options
+790,0,0,0.2771851713499621,Low,Continue regular customer engagement
+791,0,0,0.1263388664419275,Low,Continue regular customer engagement
+792,0,0,0.21569787026887147,Low,Continue regular customer engagement
+793,0,0,0.10417492784040681,Low,Continue regular customer engagement
+794,0,0,0.015986588896998628,Low,Continue regular customer engagement
+795,1,1,0.8834680475467892,High,Prioritize customer contact and discuss suitable retention options
+796,0,0,0.09486476772948813,Low,Continue regular customer engagement
+797,1,0,0.14125288641812314,Low,Continue regular customer engagement
+798,1,0,0.4828946019598567,Medium,Monitor satisfaction and investigate possible service issues
+799,0,0,0.6173374638668218,High,Prioritize customer contact and discuss suitable retention options
+800,1,0,0.41654652675159687,Medium,Monitor satisfaction and investigate possible service issues
+801,0,0,0.026726645623690287,Low,Continue regular customer engagement
+802,0,1,0.7381221467081651,High,Prioritize customer contact and discuss suitable retention options
+803,0,0,0.051467360074913406,Low,Continue regular customer engagement
+804,0,0,0.4080570177954927,Medium,Monitor satisfaction and investigate possible service issues
+805,0,0,0.20183475232855944,Low,Continue regular customer engagement
+806,0,0,0.07644859889947421,Low,Continue regular customer engagement
+807,0,1,0.7043272780613018,High,Prioritize customer contact and discuss suitable retention options
+808,0,0,0.46131835271491506,Medium,Monitor satisfaction and investigate possible service issues
+809,0,0,0.15320746794481874,Low,Continue regular customer engagement
+810,0,0,0.5527807398132155,Medium,Monitor satisfaction and investigate possible service issues
+811,0,0,0.5300746441477407,Medium,Monitor satisfaction and investigate possible service issues
+812,0,0,0.3464866622399893,Medium,Monitor satisfaction and investigate possible service issues
+813,0,0,0.06787150266552895,Low,Continue regular customer engagement
+814,1,1,0.859655245115845,High,Prioritize customer contact and discuss suitable retention options
+815,0,1,0.9143404888645026,High,Prioritize customer contact and discuss suitable retention options
+816,0,0,0.0870178976527915,Low,Continue regular customer engagement
+817,1,1,0.8500808347223545,High,Prioritize customer contact and discuss suitable retention options
+818,0,1,0.7854964683127984,High,Prioritize customer contact and discuss suitable retention options
+819,1,1,0.7988610602405041,High,Prioritize customer contact and discuss suitable retention options
+820,0,0,0.040828751702193584,Low,Continue regular customer engagement
+821,0,0,0.2277059038317875,Low,Continue regular customer engagement
+822,0,1,0.685675030865996,High,Prioritize customer contact and discuss suitable retention options
+823,0,0,0.24434608435059588,Low,Continue regular customer engagement
+824,0,0,0.27979125550361794,Low,Continue regular customer engagement
+825,0,0,0.030330788068570994,Low,Continue regular customer engagement
+826,0,0,0.1550302914746527,Low,Continue regular customer engagement
+827,1,1,0.7823735155832271,High,Prioritize customer contact and discuss suitable retention options
+828,0,0,0.04748186040814375,Low,Continue regular customer engagement
+829,1,1,0.9070842016002066,High,Prioritize customer contact and discuss suitable retention options
+830,1,1,0.7294951147172581,High,Prioritize customer contact and discuss suitable retention options
+831,1,1,0.8263479114281914,High,Prioritize customer contact and discuss suitable retention options
+832,0,0,0.539430084478794,Medium,Monitor satisfaction and investigate possible service issues
+833,0,0,0.08542813775845376,Low,Continue regular customer engagement
+834,1,1,0.8607832410078764,High,Prioritize customer contact and discuss suitable retention options
+835,0,1,0.7205554004578139,High,Prioritize customer contact and discuss suitable retention options
+836,0,0,0.13919523055350544,Low,Continue regular customer engagement
+837,0,0,0.11559183898509047,Low,Continue regular customer engagement
+838,0,0,0.009867800707552474,Low,Continue regular customer engagement
+839,0,0,0.14546922345690003,Low,Continue regular customer engagement
+840,0,1,0.7745820494327902,High,Prioritize customer contact and discuss suitable retention options
+841,0,0,0.08096001316218668,Low,Continue regular customer engagement
+842,1,0,0.33212078357583913,Medium,Monitor satisfaction and investigate possible service issues
+843,0,0,0.5373671014429852,Medium,Monitor satisfaction and investigate possible service issues
+844,0,0,0.04057490586787667,Low,Continue regular customer engagement
+845,1,1,0.71304259029726,High,Prioritize customer contact and discuss suitable retention options
+846,0,0,0.09245999573688059,Low,Continue regular customer engagement
+847,0,0,0.20950491391708517,Low,Continue regular customer engagement
+848,1,1,0.8734117340800458,High,Prioritize customer contact and discuss suitable retention options
+849,0,0,0.06311626115988203,Low,Continue regular customer engagement
+850,1,0,0.13896185100767486,Low,Continue regular customer engagement
+851,0,0,0.021845575018056104,Low,Continue regular customer engagement
+852,0,0,0.10956429608423135,Low,Continue regular customer engagement
+853,0,1,0.7055548179987252,High,Prioritize customer contact and discuss suitable retention options
+854,0,0,0.036135986295523795,Low,Continue regular customer engagement
+855,1,1,0.7442048776764434,High,Prioritize customer contact and discuss suitable retention options
+856,0,0,0.3956825071957924,Medium,Monitor satisfaction and investigate possible service issues
+857,1,1,0.7159025823447787,High,Prioritize customer contact and discuss suitable retention options
+858,0,0,0.2786063501038999,Low,Continue regular customer engagement
+859,0,0,0.5662583214223608,Medium,Monitor satisfaction and investigate possible service issues
+860,0,0,0.16013078067532446,Low,Continue regular customer engagement
+861,1,0,0.3444418759976398,Medium,Monitor satisfaction and investigate possible service issues
+862,0,0,0.1626045502685073,Low,Continue regular customer engagement
+863,0,0,0.08667083895320313,Low,Continue regular customer engagement
+864,0,1,0.7049885280922937,High,Prioritize customer contact and discuss suitable retention options
+865,0,0,0.5865740105833956,Medium,Monitor satisfaction and investigate possible service issues
+866,1,0,0.6524373126619171,High,Prioritize customer contact and discuss suitable retention options
+867,0,1,0.6976661566607505,High,Prioritize customer contact and discuss suitable retention options
+868,0,0,0.039849831764309035,Low,Continue regular customer engagement
+869,0,0,0.057274137717506696,Low,Continue regular customer engagement
+870,0,0,0.013187169819288217,Low,Continue regular customer engagement
+871,0,0,0.49974555899376844,Medium,Monitor satisfaction and investigate possible service issues
+872,0,0,0.5979375292720028,Medium,Monitor satisfaction and investigate possible service issues
+873,1,1,0.886431020181833,High,Prioritize customer contact and discuss suitable retention options
+874,0,0,0.6104196955189032,High,Prioritize customer contact and discuss suitable retention options
+875,1,0,0.37262825846699477,Medium,Monitor satisfaction and investigate possible service issues
+876,1,0,0.41105842804770293,Medium,Monitor satisfaction and investigate possible service issues
+877,0,0,0.38596585622302276,Medium,Monitor satisfaction and investigate possible service issues
+878,0,0,0.4869923448437399,Medium,Monitor satisfaction and investigate possible service issues
+879,0,0,0.5282753456710699,Medium,Monitor satisfaction and investigate possible service issues
+880,0,0,0.05358284731481161,Low,Continue regular customer engagement
+881,1,1,0.7554469892182478,High,Prioritize customer contact and discuss suitable retention options
+882,0,1,0.8479928116774219,High,Prioritize customer contact and discuss suitable retention options
+883,1,1,0.8700493046464379,High,Prioritize customer contact and discuss suitable retention options
+884,0,0,0.026921955535958397,Low,Continue regular customer engagement
+885,0,1,0.713742620174089,High,Prioritize customer contact and discuss suitable retention options
+886,0,0,0.10726293773196026,Low,Continue regular customer engagement
+887,0,0,0.20782184992833783,Low,Continue regular customer engagement
+888,0,1,0.7110543285851323,High,Prioritize customer contact and discuss suitable retention options
+889,0,1,0.7001202741340766,High,Prioritize customer contact and discuss suitable retention options
+890,0,1,0.9396724991830089,High,Prioritize customer contact and discuss suitable retention options
+891,1,0,0.4868729572498753,Medium,Monitor satisfaction and investigate possible service issues
+892,0,0,0.27329961662510466,Low,Continue regular customer engagement
+893,0,1,0.6835031499305924,High,Prioritize customer contact and discuss suitable retention options
+894,0,0,0.48737843782667856,Medium,Monitor satisfaction and investigate possible service issues
+895,1,1,0.6837025184438561,High,Prioritize customer contact and discuss suitable retention options
+896,0,0,0.021917558385996596,Low,Continue regular customer engagement
+897,1,0,0.5558732704774191,Medium,Monitor satisfaction and investigate possible service issues
+898,0,0,0.04431842886430727,Low,Continue regular customer engagement
+899,0,1,0.8615114848103891,High,Prioritize customer contact and discuss suitable retention options
+900,0,0,0.2695905147995859,Low,Continue regular customer engagement
+901,0,1,0.8311347365656152,High,Prioritize customer contact and discuss suitable retention options
+902,0,0,0.01716131665893938,Low,Continue regular customer engagement
+903,0,0,0.24828605301975654,Low,Continue regular customer engagement
+904,0,0,0.28276443740155305,Low,Continue regular customer engagement
+905,1,1,0.7226557447147799,High,Prioritize customer contact and discuss suitable retention options
+906,0,0,0.0903878304090004,Low,Continue regular customer engagement
+907,0,1,0.7445088246904613,High,Prioritize customer contact and discuss suitable retention options
+908,1,1,0.8498607239989779,High,Prioritize customer contact and discuss suitable retention options
+909,1,0,0.35395831936274236,Medium,Monitor satisfaction and investigate possible service issues
+910,0,0,0.3373471572653313,Medium,Monitor satisfaction and investigate possible service issues
+911,1,0,0.19838127500658032,Low,Continue regular customer engagement
+912,1,1,0.8574380314946077,High,Prioritize customer contact and discuss suitable retention options
+913,0,0,0.13858828423885436,Low,Continue regular customer engagement
+914,0,1,0.7428996498464913,High,Prioritize customer contact and discuss suitable retention options
+915,1,1,0.8124103988554194,High,Prioritize customer contact and discuss suitable retention options
+916,0,0,0.16577164765822017,Low,Continue regular customer engagement
+917,0,0,0.3549125918495076,Medium,Monitor satisfaction and investigate possible service issues
+918,0,0,0.5422964266498909,Medium,Monitor satisfaction and investigate possible service issues
+919,0,0,0.25262218249957735,Low,Continue regular customer engagement
+920,0,0,0.22091244150053022,Low,Continue regular customer engagement
+921,0,1,0.8123235935055836,High,Prioritize customer contact and discuss suitable retention options
+922,1,1,0.8378728381983752,High,Prioritize customer contact and discuss suitable retention options
+923,0,0,0.15474640389420255,Low,Continue regular customer engagement
+924,1,0,0.24946282206367343,Low,Continue regular customer engagement
+925,0,0,0.040994451647947065,Low,Continue regular customer engagement
+926,1,0,0.6006779765306763,High,Prioritize customer contact and discuss suitable retention options
+927,0,0,0.03832586663668503,Low,Continue regular customer engagement
+928,0,0,0.514513838518766,Medium,Monitor satisfaction and investigate possible service issues
+929,0,0,0.3961975202432351,Medium,Monitor satisfaction and investigate possible service issues
+930,0,0,0.5253991599770327,Medium,Monitor satisfaction and investigate possible service issues
+931,0,0,0.2303516386067457,Low,Continue regular customer engagement
+932,1,0,0.0669168954634236,Low,Continue regular customer engagement
+933,0,0,0.3382179893567006,Medium,Monitor satisfaction and investigate possible service issues
+934,0,0,0.5625153444136245,Medium,Monitor satisfaction and investigate possible service issues
+935,0,0,0.040906407332862035,Low,Continue regular customer engagement
+936,0,0,0.5377258701661757,Medium,Monitor satisfaction and investigate possible service issues
+937,0,1,0.6806832649973963,High,Prioritize customer contact and discuss suitable retention options
+938,0,0,0.040203721932656575,Low,Continue regular customer engagement
+939,0,1,0.6942615565141276,High,Prioritize customer contact and discuss suitable retention options
+940,0,0,0.013682752882816297,Low,Continue regular customer engagement
+941,1,1,0.859848796684104,High,Prioritize customer contact and discuss suitable retention options
+942,0,0,0.06613030662590783,Low,Continue regular customer engagement
+943,0,0,0.22605992683505663,Low,Continue regular customer engagement
+944,0,1,0.8580681747526687,High,Prioritize customer contact and discuss suitable retention options
+945,0,0,0.08019115491566156,Low,Continue regular customer engagement
+946,0,1,0.6690676579853978,High,Prioritize customer contact and discuss suitable retention options
+947,0,0,0.33843618319177193,Medium,Monitor satisfaction and investigate possible service issues
+948,1,1,0.8960708951572036,High,Prioritize customer contact and discuss suitable retention options
+949,1,1,0.8621022827433997,High,Prioritize customer contact and discuss suitable retention options
+950,1,1,0.8195974010418287,High,Prioritize customer contact and discuss suitable retention options
+951,1,1,0.8162704409682627,High,Prioritize customer contact and discuss suitable retention options
+952,1,0,0.12160489166551793,Low,Continue regular customer engagement
+953,0,1,0.8933404908712935,High,Prioritize customer contact and discuss suitable retention options
+954,0,0,0.0145812862914859,Low,Continue regular customer engagement
+955,1,1,0.8876278040819632,High,Prioritize customer contact and discuss suitable retention options
+956,0,0,0.011593510219415721,Low,Continue regular customer engagement
+957,0,0,0.5807804640757561,Medium,Monitor satisfaction and investigate possible service issues
+958,0,1,0.8290128992201955,High,Prioritize customer contact and discuss suitable retention options
+959,1,1,0.8994423164185691,High,Prioritize customer contact and discuss suitable retention options
+960,0,0,0.2612376818695404,Low,Continue regular customer engagement
+961,1,1,0.8857795615300049,High,Prioritize customer contact and discuss suitable retention options
+962,0,0,0.07928313531277131,Low,Continue regular customer engagement
+963,1,1,0.6640348359101279,High,Prioritize customer contact and discuss suitable retention options
+964,0,0,0.2159466401724382,Low,Continue regular customer engagement
+965,0,0,0.021384618136234112,Low,Continue regular customer engagement
+966,0,0,0.08818312999728627,Low,Continue regular customer engagement
+967,1,1,0.7864993844003086,High,Prioritize customer contact and discuss suitable retention options
+968,0,1,0.6737643651329671,High,Prioritize customer contact and discuss suitable retention options
+969,0,0,0.016430637451952664,Low,Continue regular customer engagement
+970,0,0,0.026390130422775354,Low,Continue regular customer engagement
+971,0,0,0.02686275240596003,Low,Continue regular customer engagement
+972,0,0,0.5310645243354216,Medium,Monitor satisfaction and investigate possible service issues
+973,0,0,0.5173048090308524,Medium,Monitor satisfaction and investigate possible service issues
+974,0,1,0.9024068713745554,High,Prioritize customer contact and discuss suitable retention options
+975,0,0,0.04236444417895608,Low,Continue regular customer engagement
+976,0,0,0.2568718249311853,Low,Continue regular customer engagement
+977,0,1,0.8272214493383121,High,Prioritize customer contact and discuss suitable retention options
+978,0,0,0.3259147612223131,Medium,Monitor satisfaction and investigate possible service issues
+979,0,0,0.4814498261656706,Medium,Monitor satisfaction and investigate possible service issues
+980,1,1,0.6791437638104565,High,Prioritize customer contact and discuss suitable retention options
+981,1,1,0.7400424489788406,High,Prioritize customer contact and discuss suitable retention options
+982,0,0,0.4275152868232349,Medium,Monitor satisfaction and investigate possible service issues
+983,0,0,0.2728568121369593,Low,Continue regular customer engagement
+984,0,0,0.07927041406227656,Low,Continue regular customer engagement
+985,0,0,0.019721397568644553,Low,Continue regular customer engagement
+986,0,0,0.22960093215748276,Low,Continue regular customer engagement
+987,0,0,0.02837673723940283,Low,Continue regular customer engagement
+988,1,1,0.8874876240086748,High,Prioritize customer contact and discuss suitable retention options
+989,0,0,0.6002522354784428,High,Prioritize customer contact and discuss suitable retention options
+990,0,0,0.5299609927401302,Medium,Monitor satisfaction and investigate possible service issues
+991,0,0,0.10074628122718303,Low,Continue regular customer engagement
+992,0,0,0.02094555534912146,Low,Continue regular customer engagement
+993,1,0,0.2689840575002776,Low,Continue regular customer engagement
+994,0,1,0.8237491322056355,High,Prioritize customer contact and discuss suitable retention options
+995,0,0,0.5879993005451765,Medium,Monitor satisfaction and investigate possible service issues
+996,0,1,0.9354295893339704,High,Prioritize customer contact and discuss suitable retention options
+997,1,0,0.4588221962776953,Medium,Monitor satisfaction and investigate possible service issues
+998,1,0,0.6518367768965986,High,Prioritize customer contact and discuss suitable retention options
+999,0,0,0.02576122155069382,Low,Continue regular customer engagement
+1000,0,0,0.6138472875514858,High,Prioritize customer contact and discuss suitable retention options
+1001,0,0,0.631680437498921,High,Prioritize customer contact and discuss suitable retention options
+1002,0,1,0.7072747767820359,High,Prioritize customer contact and discuss suitable retention options
+1003,0,0,0.374049783572002,Medium,Monitor satisfaction and investigate possible service issues
+1004,0,0,0.17648608616206787,Low,Continue regular customer engagement
+1005,0,0,0.29390333767824944,Low,Continue regular customer engagement
+1006,1,0,0.5908138311411067,Medium,Monitor satisfaction and investigate possible service issues
+1007,0,0,0.10014570414176296,Low,Continue regular customer engagement
+1008,1,1,0.8286259004583078,High,Prioritize customer contact and discuss suitable retention options
+1009,0,0,0.05129015080933587,Low,Continue regular customer engagement
+1010,0,0,0.17769686368998439,Low,Continue regular customer engagement
+1011,0,1,0.7420555756407734,High,Prioritize customer contact and discuss suitable retention options
+1012,0,0,0.11174495828877037,Low,Continue regular customer engagement
+1013,0,0,0.5283169305590402,Medium,Monitor satisfaction and investigate possible service issues
+1014,0,0,0.04613493563626284,Low,Continue regular customer engagement
+1015,0,0,0.3314153436566683,Medium,Monitor satisfaction and investigate possible service issues
+1016,0,0,0.2823598405764607,Low,Continue regular customer engagement
+1017,0,0,0.20429957217897138,Low,Continue regular customer engagement
+1018,0,0,0.21894698694335163,Low,Continue regular customer engagement
+1019,0,0,0.535444363656976,Medium,Monitor satisfaction and investigate possible service issues
+1020,1,0,0.39581123881178476,Medium,Monitor satisfaction and investigate possible service issues
+1021,0,0,0.0651363742324862,Low,Continue regular customer engagement
+1022,0,0,0.022454723367594593,Low,Continue regular customer engagement
+1023,0,1,0.6895889275571234,High,Prioritize customer contact and discuss suitable retention options
+1024,0,0,0.6048025134605252,High,Prioritize customer contact and discuss suitable retention options
+1025,1,0,0.39697047126964824,Medium,Monitor satisfaction and investigate possible service issues
+1026,0,0,0.058934089602490566,Low,Continue regular customer engagement
+1027,0,0,0.05741788933255129,Low,Continue regular customer engagement
+1028,0,1,0.682393968912878,High,Prioritize customer contact and discuss suitable retention options
+1029,0,0,0.3757287050645957,Medium,Monitor satisfaction and investigate possible service issues
+1030,0,0,0.42170982886553937,Medium,Monitor satisfaction and investigate possible service issues
+1031,0,0,0.04619370104810027,Low,Continue regular customer engagement
+1032,0,0,0.10014558424044541,Low,Continue regular customer engagement
+1033,0,0,0.41980611272928425,Medium,Monitor satisfaction and investigate possible service issues
+1034,0,0,0.37951204913836406,Medium,Monitor satisfaction and investigate possible service issues
+1035,1,1,0.9029206919917734,High,Prioritize customer contact and discuss suitable retention options
+1036,0,0,0.5439641568698632,Medium,Monitor satisfaction and investigate possible service issues
+1037,0,0,0.40275086458476167,Medium,Monitor satisfaction and investigate possible service issues
+1038,0,0,0.11674542190386389,Low,Continue regular customer engagement
+1039,0,0,0.5023455100441696,Medium,Monitor satisfaction and investigate possible service issues
+1040,0,0,0.34543285719197475,Medium,Monitor satisfaction and investigate possible service issues
+1041,1,1,0.8199739235727119,High,Prioritize customer contact and discuss suitable retention options
+1042,0,0,0.15412805645888056,Low,Continue regular customer engagement
+1043,0,0,0.1963152140187464,Low,Continue regular customer engagement
+1044,0,0,0.07743687600010135,Low,Continue regular customer engagement
+1045,0,0,0.13804469384971563,Low,Continue regular customer engagement
+1046,1,0,0.4739722442914201,Medium,Monitor satisfaction and investigate possible service issues
+1047,0,0,0.180267904894983,Low,Continue regular customer engagement
+1048,0,0,0.2912662919053041,Low,Continue regular customer engagement
+1049,0,1,0.9078062291417478,High,Prioritize customer contact and discuss suitable retention options
+1050,1,0,0.5281818519112361,Medium,Monitor satisfaction and investigate possible service issues
+1051,0,0,0.10898443806548005,Low,Continue regular customer engagement
+1052,0,0,0.11536830539402895,Low,Continue regular customer engagement
+1053,0,0,0.10697228477398013,Low,Continue regular customer engagement
+1054,0,1,0.6588467783026758,High,Prioritize customer contact and discuss suitable retention options
+1055,0,0,0.07719898049834166,Low,Continue regular customer engagement
+1056,0,0,0.023941027633961814,Low,Continue regular customer engagement
+1057,1,1,0.8132420558506802,High,Prioritize customer contact and discuss suitable retention options
+1058,0,0,0.03972605304717883,Low,Continue regular customer engagement
+1059,1,1,0.7988736764961096,High,Prioritize customer contact and discuss suitable retention options
+1060,0,0,0.015659798143893247,Low,Continue regular customer engagement
+1061,0,0,0.02900357317190674,Low,Continue regular customer engagement
+1062,1,0,0.6354395093392219,High,Prioritize customer contact and discuss suitable retention options
+1063,0,0,0.06033621623369339,Low,Continue regular customer engagement
+1064,0,0,0.4280793456471902,Medium,Monitor satisfaction and investigate possible service issues
+1065,1,1,0.7684385152071215,High,Prioritize customer contact and discuss suitable retention options
+1066,0,0,0.38242199403728566,Medium,Monitor satisfaction and investigate possible service issues
+1067,1,1,0.8976027395416496,High,Prioritize customer contact and discuss suitable retention options
+1068,0,0,0.48235692172161737,Medium,Monitor satisfaction and investigate possible service issues
+1069,0,0,0.12565818470380338,Low,Continue regular customer engagement
+1070,0,0,0.02633918382136425,Low,Continue regular customer engagement
+1071,0,0,0.3212285302661835,Medium,Monitor satisfaction and investigate possible service issues
+1072,0,0,0.4651486717929478,Medium,Monitor satisfaction and investigate possible service issues
+1073,0,0,0.40690387934129146,Medium,Monitor satisfaction and investigate possible service issues
+1074,0,1,0.762938031232912,High,Prioritize customer contact and discuss suitable retention options
+1075,0,1,0.7658974777253974,High,Prioritize customer contact and discuss suitable retention options
+1076,0,0,0.39902539270282855,Medium,Monitor satisfaction and investigate possible service issues
+1077,0,0,0.1019259512312395,Low,Continue regular customer engagement
+1078,0,0,0.2157992440568551,Low,Continue regular customer engagement
+1079,1,0,0.5987110031363727,Medium,Monitor satisfaction and investigate possible service issues
+1080,0,0,0.2055937860710279,Low,Continue regular customer engagement
+1081,0,0,0.2720047255861716,Low,Continue regular customer engagement
+1082,0,0,0.062162434679805444,Low,Continue regular customer engagement
+1083,0,1,0.8052286709454606,High,Prioritize customer contact and discuss suitable retention options
+1084,1,1,0.8587490624297356,High,Prioritize customer contact and discuss suitable retention options
+1085,0,1,0.6730086464819878,High,Prioritize customer contact and discuss suitable retention options
+1086,0,0,0.6508952732464419,High,Prioritize customer contact and discuss suitable retention options
+1087,0,0,0.03991645708967724,Low,Continue regular customer engagement
+1088,0,0,0.12134555086482948,Low,Continue regular customer engagement
+1089,1,1,0.8854435492004923,High,Prioritize customer contact and discuss suitable retention options
+1090,0,0,0.09419637647474739,Low,Continue regular customer engagement
+1091,1,1,0.9541606240292204,High,Prioritize customer contact and discuss suitable retention options
+1092,0,0,0.4707848813482536,Medium,Monitor satisfaction and investigate possible service issues
+1093,0,1,0.891332820211663,High,Prioritize customer contact and discuss suitable retention options
+1094,1,1,0.7926716848423595,High,Prioritize customer contact and discuss suitable retention options
+1095,0,0,0.6346978754652249,High,Prioritize customer contact and discuss suitable retention options
+1096,0,0,0.17804174889817112,Low,Continue regular customer engagement
+1097,0,0,0.09549963204412089,Low,Continue regular customer engagement
+1098,0,0,0.397872897644203,Medium,Monitor satisfaction and investigate possible service issues
+1099,0,0,0.21911952777940835,Low,Continue regular customer engagement
+1100,1,0,0.01899195804056902,Low,Continue regular customer engagement
+1101,1,0,0.1676396606144306,Low,Continue regular customer engagement
+1102,1,0,0.6455130899350395,High,Prioritize customer contact and discuss suitable retention options
+1103,0,1,0.8017718690169475,High,Prioritize customer contact and discuss suitable retention options
+1104,0,0,0.07788040729487851,Low,Continue regular customer engagement
+1105,0,0,0.6312748367026025,High,Prioritize customer contact and discuss suitable retention options
+1106,0,0,0.017492796728444813,Low,Continue regular customer engagement
+1107,0,1,0.6667217863263539,High,Prioritize customer contact and discuss suitable retention options
+1108,0,1,0.7182865867558517,High,Prioritize customer contact and discuss suitable retention options
+1109,0,0,0.19651693279753457,Low,Continue regular customer engagement
+1110,1,1,0.9377535280318137,High,Prioritize customer contact and discuss suitable retention options
+1111,0,0,0.04081816038968719,Low,Continue regular customer engagement
+1112,0,0,0.04410344644898935,Low,Continue regular customer engagement
+1113,0,0,0.5975749587249733,Medium,Monitor satisfaction and investigate possible service issues
+1114,0,0,0.48564653308544503,Medium,Monitor satisfaction and investigate possible service issues
+1115,0,0,0.06535597238326576,Low,Continue regular customer engagement
+1116,0,0,0.32599423540305617,Medium,Monitor satisfaction and investigate possible service issues
+1117,1,1,0.8717787144534255,High,Prioritize customer contact and discuss suitable retention options
+1118,1,1,0.875720169209446,High,Prioritize customer contact and discuss suitable retention options
+1119,1,1,0.9028680245910597,High,Prioritize customer contact and discuss suitable retention options
+1120,0,1,0.6574227331168936,High,Prioritize customer contact and discuss suitable retention options
+1121,1,1,0.6982264218093288,High,Prioritize customer contact and discuss suitable retention options
+1122,0,0,0.02390544018697049,Low,Continue regular customer engagement
+1123,0,0,0.038296521489086355,Low,Continue regular customer engagement
+1124,0,1,0.8859649757264504,High,Prioritize customer contact and discuss suitable retention options
+1125,0,0,0.01623714116822844,Low,Continue regular customer engagement
+1126,0,0,0.5806954407467924,Medium,Monitor satisfaction and investigate possible service issues
+1127,0,0,0.6151194524461121,High,Prioritize customer contact and discuss suitable retention options
+1128,1,1,0.8986144196257689,High,Prioritize customer contact and discuss suitable retention options
+1129,0,0,0.055625791569754446,Low,Continue regular customer engagement
+1130,0,0,0.08728036914219095,Low,Continue regular customer engagement
+1131,0,0,0.03805972236067608,Low,Continue regular customer engagement
+1132,0,0,0.1395638366474001,Low,Continue regular customer engagement
+1133,0,0,0.5397347710093846,Medium,Monitor satisfaction and investigate possible service issues
+1134,1,1,0.8905356351667895,High,Prioritize customer contact and discuss suitable retention options
+1135,0,0,0.08012761103089197,Low,Continue regular customer engagement
+1136,1,1,0.7557859121941506,High,Prioritize customer contact and discuss suitable retention options
+1137,0,0,0.020321337159947033,Low,Continue regular customer engagement
+1138,1,0,0.5071220669139197,Medium,Monitor satisfaction and investigate possible service issues
+1139,1,1,0.9472249089530145,High,Prioritize customer contact and discuss suitable retention options
+1140,1,1,0.6683020034721465,High,Prioritize customer contact and discuss suitable retention options
+1141,0,0,0.6314591883552032,High,Prioritize customer contact and discuss suitable retention options
+1142,1,0,0.3284976985143192,Medium,Monitor satisfaction and investigate possible service issues
+1143,0,0,0.02401095907287306,Low,Continue regular customer engagement
+1144,0,0,0.027122718840589994,Low,Continue regular customer engagement
+1145,0,0,0.07453476381155683,Low,Continue regular customer engagement
+1146,1,0,0.10931732155474758,Low,Continue regular customer engagement
+1147,1,1,0.8167507837784487,High,Prioritize customer contact and discuss suitable retention options
+1148,0,0,0.4387412262345286,Medium,Monitor satisfaction and investigate possible service issues
+1149,1,1,0.7248075391606761,High,Prioritize customer contact and discuss suitable retention options
+1150,0,0,0.588699548711027,Medium,Monitor satisfaction and investigate possible service issues
+1151,1,1,0.6794664208305963,High,Prioritize customer contact and discuss suitable retention options
+1152,1,1,0.7734391581518761,High,Prioritize customer contact and discuss suitable retention options
+1153,0,1,0.6937828737911561,High,Prioritize customer contact and discuss suitable retention options
+1154,0,0,0.024922367241865244,Low,Continue regular customer engagement
+1155,0,0,0.06992849048429076,Low,Continue regular customer engagement
+1156,1,1,0.7625658157147183,High,Prioritize customer contact and discuss suitable retention options
+1157,0,0,0.031119875103675088,Low,Continue regular customer engagement
+1158,1,1,0.6656184587478203,High,Prioritize customer contact and discuss suitable retention options
+1159,1,1,0.8113477247739972,High,Prioritize customer contact and discuss suitable retention options
+1160,1,1,0.7270989257423621,High,Prioritize customer contact and discuss suitable retention options
+1161,1,1,0.7990933716582228,High,Prioritize customer contact and discuss suitable retention options
+1162,0,0,0.40128245012936054,Medium,Monitor satisfaction and investigate possible service issues
+1163,0,0,0.08715476027328509,Low,Continue regular customer engagement
+1164,1,1,0.780429684362618,High,Prioritize customer contact and discuss suitable retention options
+1165,1,1,0.9448699683458279,High,Prioritize customer contact and discuss suitable retention options
+1166,0,0,0.03937890300784097,Low,Continue regular customer engagement
+1167,0,0,0.1248736811339682,Low,Continue regular customer engagement
+1168,0,0,0.0522627216506368,Low,Continue regular customer engagement
+1169,0,0,0.06816889854567625,Low,Continue regular customer engagement
+1170,0,0,0.4385586922388964,Medium,Monitor satisfaction and investigate possible service issues
+1171,0,0,0.050900400985893164,Low,Continue regular customer engagement
+1172,0,1,0.815072701723473,High,Prioritize customer contact and discuss suitable retention options
+1173,0,1,0.8457585231925514,High,Prioritize customer contact and discuss suitable retention options
+1174,1,0,0.63621353558243,High,Prioritize customer contact and discuss suitable retention options
+1175,0,0,0.1552943043670167,Low,Continue regular customer engagement
+1176,1,1,0.9421208889998618,High,Prioritize customer contact and discuss suitable retention options
+1177,0,0,0.2827704172915394,Low,Continue regular customer engagement
+1178,0,0,0.21437850822833712,Low,Continue regular customer engagement
+1179,1,1,0.8662142691164614,High,Prioritize customer contact and discuss suitable retention options
+1180,0,0,0.37240277914369624,Medium,Monitor satisfaction and investigate possible service issues
+1181,0,0,0.12349059917412498,Low,Continue regular customer engagement
+1182,1,0,0.48299839671324357,Medium,Monitor satisfaction and investigate possible service issues
+1183,0,1,0.7283994932829597,High,Prioritize customer contact and discuss suitable retention options
+1184,0,0,0.17544321181665076,Low,Continue regular customer engagement
+1185,0,0,0.222667368647468,Low,Continue regular customer engagement
+1186,0,0,0.08110973727945618,Low,Continue regular customer engagement
+1187,1,1,0.6764834136074844,High,Prioritize customer contact and discuss suitable retention options
+1188,0,1,0.7628478238628955,High,Prioritize customer contact and discuss suitable retention options
+1189,1,1,0.9024638154600516,High,Prioritize customer contact and discuss suitable retention options
+1190,0,0,0.16224981904612082,Low,Continue regular customer engagement
+1191,0,1,0.717581420668571,High,Prioritize customer contact and discuss suitable retention options
+1192,0,1,0.7705749717733856,High,Prioritize customer contact and discuss suitable retention options
+1193,0,0,0.5674596602505034,Medium,Monitor satisfaction and investigate possible service issues
+1194,0,0,0.4326450209836077,Medium,Monitor satisfaction and investigate possible service issues
+1195,0,0,0.021656913006076722,Low,Continue regular customer engagement
+1196,0,0,0.15824087403582057,Low,Continue regular customer engagement
+1197,0,0,0.09488884122235812,Low,Continue regular customer engagement
+1198,1,1,0.9275495633141037,High,Prioritize customer contact and discuss suitable retention options
+1199,0,0,0.1683568893068189,Low,Continue regular customer engagement
+1200,0,0,0.021818666589982702,Low,Continue regular customer engagement
+1201,1,1,0.7298471362279932,High,Prioritize customer contact and discuss suitable retention options
+1202,0,0,0.5237477532553806,Medium,Monitor satisfaction and investigate possible service issues
+1203,0,0,0.21120447271923928,Low,Continue regular customer engagement
+1204,0,0,0.14221057445219037,Low,Continue regular customer engagement
+1205,0,0,0.018680601950386327,Low,Continue regular customer engagement
+1206,1,0,0.51138256711657,Medium,Monitor satisfaction and investigate possible service issues
+1207,0,0,0.38111643775228315,Medium,Monitor satisfaction and investigate possible service issues
+1208,0,0,0.3276720820815001,Medium,Monitor satisfaction and investigate possible service issues
+1209,0,1,0.7228714820523043,High,Prioritize customer contact and discuss suitable retention options
+1210,0,0,0.39322566619230703,Medium,Monitor satisfaction and investigate possible service issues
+1211,0,0,0.037101844624656016,Low,Continue regular customer engagement
+1212,1,1,0.855549131736162,High,Prioritize customer contact and discuss suitable retention options
+1213,0,0,0.3975468969022061,Medium,Monitor satisfaction and investigate possible service issues
+1214,0,1,0.6875316413024392,High,Prioritize customer contact and discuss suitable retention options
+1215,0,0,0.1611396313519512,Low,Continue regular customer engagement
+1216,0,1,0.8497310819593525,High,Prioritize customer contact and discuss suitable retention options
+1217,1,1,0.785373482634989,High,Prioritize customer contact and discuss suitable retention options
+1218,1,1,0.6803738458658976,High,Prioritize customer contact and discuss suitable retention options
+1219,0,0,0.1626384917785731,Low,Continue regular customer engagement
+1220,0,0,0.024664516968293294,Low,Continue regular customer engagement
+1221,0,1,0.7165923111917379,High,Prioritize customer contact and discuss suitable retention options
+1222,1,1,0.9442622972731529,High,Prioritize customer contact and discuss suitable retention options
+1223,0,1,0.8930801441594683,High,Prioritize customer contact and discuss suitable retention options
+1224,1,1,0.7282242024512758,High,Prioritize customer contact and discuss suitable retention options
+1225,1,1,0.7826679535707679,High,Prioritize customer contact and discuss suitable retention options
+1226,0,0,0.6297081387867679,High,Prioritize customer contact and discuss suitable retention options
+1227,0,0,0.06552753668676274,Low,Continue regular customer engagement
+1228,0,0,0.06618823762249068,Low,Continue regular customer engagement
+1229,0,0,0.015920298991645116,Low,Continue regular customer engagement
+1230,1,1,0.7561742773151792,High,Prioritize customer contact and discuss suitable retention options
+1231,0,0,0.03252837400293485,Low,Continue regular customer engagement
+1232,0,0,0.5379062171296585,Medium,Monitor satisfaction and investigate possible service issues
+1233,0,0,0.47420454673367585,Medium,Monitor satisfaction and investigate possible service issues
+1234,1,1,0.8594266654799836,High,Prioritize customer contact and discuss suitable retention options
+1235,0,0,0.3416044758686091,Medium,Monitor satisfaction and investigate possible service issues
+1236,0,0,0.6390763539042367,High,Prioritize customer contact and discuss suitable retention options
+1237,1,1,0.7959036546192645,High,Prioritize customer contact and discuss suitable retention options
+1238,0,0,0.04989365906306476,Low,Continue regular customer engagement
+1239,0,0,0.1998583454267257,Low,Continue regular customer engagement
+1240,0,0,0.017375458249630642,Low,Continue regular customer engagement
+1241,0,0,0.21694500118200405,Low,Continue regular customer engagement
+1242,0,0,0.12480907950907469,Low,Continue regular customer engagement
+1243,0,0,0.313464707850468,Medium,Monitor satisfaction and investigate possible service issues
+1244,0,0,0.6338436321410118,High,Prioritize customer contact and discuss suitable retention options
+1245,0,0,0.04696871939336785,Low,Continue regular customer engagement
+1246,0,0,0.18478351869210807,Low,Continue regular customer engagement
+1247,0,0,0.6489221459781696,High,Prioritize customer contact and discuss suitable retention options
+1248,1,0,0.4953644844497688,Medium,Monitor satisfaction and investigate possible service issues
+1249,0,0,0.09549254718446089,Low,Continue regular customer engagement
+1250,0,1,0.7432514959082208,High,Prioritize customer contact and discuss suitable retention options
+1251,1,1,0.8088116412958589,High,Prioritize customer contact and discuss suitable retention options
+1252,0,0,0.5982491040196561,Medium,Monitor satisfaction and investigate possible service issues
+1253,1,1,0.8778691316092487,High,Prioritize customer contact and discuss suitable retention options
+1254,0,0,0.12367475271208948,Low,Continue regular customer engagement
+1255,1,0,0.5797120434019981,Medium,Monitor satisfaction and investigate possible service issues
+1256,0,0,0.5203904024061947,Medium,Monitor satisfaction and investigate possible service issues
+1257,0,0,0.022302591514507048,Low,Continue regular customer engagement
+1258,1,1,0.800633304556391,High,Prioritize customer contact and discuss suitable retention options
+1259,0,0,0.1425703582661618,Low,Continue regular customer engagement
+1260,1,1,0.9058671000506929,High,Prioritize customer contact and discuss suitable retention options
+1261,0,0,0.05521396050927322,Low,Continue regular customer engagement
+1262,0,0,0.07564592242027246,Low,Continue regular customer engagement
+1263,0,0,0.0809900341815705,Low,Continue regular customer engagement
+1264,0,0,0.3348963797648514,Medium,Monitor satisfaction and investigate possible service issues
+1265,0,0,0.2915734889915426,Low,Continue regular customer engagement
+1266,0,0,0.035866073789547814,Low,Continue regular customer engagement
+1267,0,0,0.3669579924598777,Medium,Monitor satisfaction and investigate possible service issues
+1268,1,1,0.8354500114584834,High,Prioritize customer contact and discuss suitable retention options
+1269,0,0,0.04721396846823023,Low,Continue regular customer engagement
+1270,0,1,0.8066333952944491,High,Prioritize customer contact and discuss suitable retention options
+1271,1,1,0.8264638088616107,High,Prioritize customer contact and discuss suitable retention options
+1272,0,0,0.553234771684964,Medium,Monitor satisfaction and investigate possible service issues
+1273,0,0,0.1710300552907831,Low,Continue regular customer engagement
+1274,0,0,0.009027300563224941,Low,Continue regular customer engagement
+1275,1,1,0.890982907650746,High,Prioritize customer contact and discuss suitable retention options
+1276,0,0,0.5449277554876408,Medium,Monitor satisfaction and investigate possible service issues
+1277,1,0,0.3499035195814146,Medium,Monitor satisfaction and investigate possible service issues
+1278,1,0,0.6080665093681876,High,Prioritize customer contact and discuss suitable retention options
+1279,0,0,0.2317436359030368,Low,Continue regular customer engagement
+1280,0,0,0.34977212751253084,Medium,Monitor satisfaction and investigate possible service issues
+1281,0,0,0.5643689649019764,Medium,Monitor satisfaction and investigate possible service issues
+1282,0,0,0.0669479959222859,Low,Continue regular customer engagement
+1283,0,0,0.014284694544691619,Low,Continue regular customer engagement
+1284,0,0,0.36980724028657874,Medium,Monitor satisfaction and investigate possible service issues
+1285,1,0,0.6289617222816578,High,Prioritize customer contact and discuss suitable retention options
+1286,0,1,0.8943289228200956,High,Prioritize customer contact and discuss suitable retention options
+1287,1,1,0.8757702842253348,High,Prioritize customer contact and discuss suitable retention options
+1288,0,0,0.21515285487229185,Low,Continue regular customer engagement
+1289,1,1,0.8551410616607548,High,Prioritize customer contact and discuss suitable retention options
+1290,1,1,0.8927889832533656,High,Prioritize customer contact and discuss suitable retention options
+1291,0,0,0.01731815426248476,Low,Continue regular customer engagement
+1292,0,0,0.6180389587430037,High,Prioritize customer contact and discuss suitable retention options
+1293,1,1,0.7660177811498171,High,Prioritize customer contact and discuss suitable retention options
+1294,0,0,0.37198424645285416,Medium,Monitor satisfaction and investigate possible service issues
+1295,0,0,0.5931266684830969,Medium,Monitor satisfaction and investigate possible service issues
+1296,0,0,0.4191355271023192,Medium,Monitor satisfaction and investigate possible service issues
+1297,0,0,0.08807211545300833,Low,Continue regular customer engagement
+1298,0,0,0.02855321996087958,Low,Continue regular customer engagement
+1299,0,1,0.8843859963845903,High,Prioritize customer contact and discuss suitable retention options
+1300,0,1,0.7060880756096497,High,Prioritize customer contact and discuss suitable retention options
+1301,1,1,0.8810442173335936,High,Prioritize customer contact and discuss suitable retention options
+1302,0,0,0.07026334117779563,Low,Continue regular customer engagement
+1303,0,0,0.0801633202789247,Low,Continue regular customer engagement
+1304,0,0,0.035086740429482746,Low,Continue regular customer engagement
+1305,0,0,0.5082750667356655,Medium,Monitor satisfaction and investigate possible service issues
+1306,0,0,0.35133691987943777,Medium,Monitor satisfaction and investigate possible service issues
+1307,0,0,0.0826631217546306,Low,Continue regular customer engagement
+1308,0,1,0.6595294063289632,High,Prioritize customer contact and discuss suitable retention options
+1309,0,0,0.09528463892076226,Low,Continue regular customer engagement
+1310,1,0,0.6455312484089709,High,Prioritize customer contact and discuss suitable retention options
+1311,0,0,0.015012814029531136,Low,Continue regular customer engagement
+1312,0,0,0.3336922929646032,Medium,Monitor satisfaction and investigate possible service issues
+1313,0,0,0.32454765795993556,Medium,Monitor satisfaction and investigate possible service issues
+1314,0,0,0.46244520319195453,Medium,Monitor satisfaction and investigate possible service issues
+1315,1,1,0.7042342653492832,High,Prioritize customer contact and discuss suitable retention options
+1316,0,0,0.30490805049610287,Medium,Monitor satisfaction and investigate possible service issues
+1317,0,0,0.30249770625331307,Medium,Monitor satisfaction and investigate possible service issues
+1318,0,0,0.3162211342971078,Medium,Monitor satisfaction and investigate possible service issues
+1319,1,0,0.5774923638343525,Medium,Monitor satisfaction and investigate possible service issues
+1320,0,0,0.053989492282708856,Low,Continue regular customer engagement
+1321,1,1,0.7850253568911557,High,Prioritize customer contact and discuss suitable retention options
+1322,0,0,0.028621942207276898,Low,Continue regular customer engagement
+1323,1,1,0.6744830842051895,High,Prioritize customer contact and discuss suitable retention options
+1324,0,0,0.15178511933447464,Low,Continue regular customer engagement
+1325,0,0,0.27052935102768244,Low,Continue regular customer engagement
+1326,0,0,0.2933149460870491,Low,Continue regular customer engagement
+1327,0,0,0.47278440713558834,Medium,Monitor satisfaction and investigate possible service issues
+1328,1,1,0.7608828200851951,High,Prioritize customer contact and discuss suitable retention options
+1329,0,0,0.022842810542680093,Low,Continue regular customer engagement
+1330,0,0,0.20245884680468854,Low,Continue regular customer engagement
+1331,0,0,0.14202471945509318,Low,Continue regular customer engagement
+1332,1,0,0.6087916604639552,High,Prioritize customer contact and discuss suitable retention options
+1333,0,0,0.318922596664249,Medium,Monitor satisfaction and investigate possible service issues
+1334,1,1,0.7026087070106339,High,Prioritize customer contact and discuss suitable retention options
+1335,1,1,0.793006537275096,High,Prioritize customer contact and discuss suitable retention options
+1336,0,0,0.061364221347225786,Low,Continue regular customer engagement
+1337,0,0,0.1769593894891461,Low,Continue regular customer engagement
+1338,0,0,0.37849785148261533,Medium,Monitor satisfaction and investigate possible service issues
+1339,1,1,0.8438112649638593,High,Prioritize customer contact and discuss suitable retention options
+1340,1,1,0.8017748424926409,High,Prioritize customer contact and discuss suitable retention options
+1341,0,0,0.03175897837679178,Low,Continue regular customer engagement
+1342,0,0,0.10565829091599503,Low,Continue regular customer engagement
+1343,0,0,0.02417193128169607,Low,Continue regular customer engagement
+1344,0,0,0.17141186689829482,Low,Continue regular customer engagement
+1345,0,0,0.0113722317540776,Low,Continue regular customer engagement
+1346,0,0,0.023715288841606976,Low,Continue regular customer engagement
+1347,1,1,0.8399553972949313,High,Prioritize customer contact and discuss suitable retention options
+1348,1,1,0.6771111199741464,High,Prioritize customer contact and discuss suitable retention options
+1349,0,0,0.025924463666213284,Low,Continue regular customer engagement
+1350,0,0,0.6480687483842469,High,Prioritize customer contact and discuss suitable retention options
+1351,0,0,0.08445098294021322,Low,Continue regular customer engagement
+1352,0,0,0.2798405138756015,Low,Continue regular customer engagement
+1353,1,1,0.7714459413944644,High,Prioritize customer contact and discuss suitable retention options
+1354,0,0,0.06794812434270098,Low,Continue regular customer engagement
+1355,0,0,0.46353240750027996,Medium,Monitor satisfaction and investigate possible service issues
+1356,0,1,0.9268645035705362,High,Prioritize customer contact and discuss suitable retention options
+1357,0,0,0.11327303774900227,Low,Continue regular customer engagement
+1358,0,0,0.39084115204894665,Medium,Monitor satisfaction and investigate possible service issues
+1359,0,0,0.044064948989033535,Low,Continue regular customer engagement
+1360,0,0,0.5250609009910401,Medium,Monitor satisfaction and investigate possible service issues
+1361,0,0,0.46178185390555787,Medium,Monitor satisfaction and investigate possible service issues
+1362,1,0,0.4709012977851083,Medium,Monitor satisfaction and investigate possible service issues
+1363,1,0,0.28724957166985876,Low,Continue regular customer engagement
+1364,0,0,0.48158512369372874,Medium,Monitor satisfaction and investigate possible service issues
+1365,0,0,0.49405474118972836,Medium,Monitor satisfaction and investigate possible service issues
+1366,0,0,0.5081895437950553,Medium,Monitor satisfaction and investigate possible service issues
+1367,1,1,0.8749567537502005,High,Prioritize customer contact and discuss suitable retention options
+1368,0,0,0.0221350259008512,Low,Continue regular customer engagement
+1369,0,0,0.5472734268609298,Medium,Monitor satisfaction and investigate possible service issues
+1370,0,0,0.47376715871714215,Medium,Monitor satisfaction and investigate possible service issues
+1371,0,0,0.06801254809178904,Low,Continue regular customer engagement
+1372,0,0,0.4434143191437459,Medium,Monitor satisfaction and investigate possible service issues
+1373,0,0,0.2651991253949762,Low,Continue regular customer engagement
+1374,1,1,0.7671218181163196,High,Prioritize customer contact and discuss suitable retention options
+1375,1,1,0.7175484119072666,High,Prioritize customer contact and discuss suitable retention options
+1376,0,0,0.07144042289335593,Low,Continue regular customer engagement
+1377,0,0,0.17571293485856274,Low,Continue regular customer engagement
+1378,1,1,0.7130885417354195,High,Prioritize customer contact and discuss suitable retention options
+1379,1,1,0.7576344131573317,High,Prioritize customer contact and discuss suitable retention options
+1380,1,1,0.8444283640093894,High,Prioritize customer contact and discuss suitable retention options
+1381,0,0,0.07903730554435832,Low,Continue regular customer engagement
+1382,0,0,0.42107684959055364,Medium,Monitor satisfaction and investigate possible service issues
+1383,0,1,0.7055730800190535,High,Prioritize customer contact and discuss suitable retention options
+1384,0,0,0.036283115483228594,Low,Continue regular customer engagement
+1385,0,0,0.48614717402921853,Medium,Monitor satisfaction and investigate possible service issues
+1386,1,0,0.42930803418865954,Medium,Monitor satisfaction and investigate possible service issues
+1387,0,0,0.6381093941997572,High,Prioritize customer contact and discuss suitable retention options
+1388,0,0,0.1985913405818432,Low,Continue regular customer engagement
+1389,1,1,0.7118221860127086,High,Prioritize customer contact and discuss suitable retention options
+1390,0,0,0.12508874905409187,Low,Continue regular customer engagement
+1391,0,1,0.7549844858737418,High,Prioritize customer contact and discuss suitable retention options
+1392,0,0,0.6396669591198817,High,Prioritize customer contact and discuss suitable retention options
+1393,0,0,0.0810930152694049,Low,Continue regular customer engagement
+1394,1,1,0.8739642680242937,High,Prioritize customer contact and discuss suitable retention options
+1395,0,0,0.07241545730035177,Low,Continue regular customer engagement
+1396,0,0,0.6472912598363568,High,Prioritize customer contact and discuss suitable retention options
+1397,0,1,0.8303779210996868,High,Prioritize customer contact and discuss suitable retention options
+1398,0,0,0.3938817899878936,Medium,Monitor satisfaction and investigate possible service issues
+1399,0,0,0.08541745918329058,Low,Continue regular customer engagement
+1400,1,1,0.8871646896240671,High,Prioritize customer contact and discuss suitable retention options
+1401,0,0,0.1208202826441003,Low,Continue regular customer engagement
+1402,0,0,0.044758099358576456,Low,Continue regular customer engagement
+1403,0,0,0.0377973320200644,Low,Continue regular customer engagement
+1404,0,0,0.06300851599856862,Low,Continue regular customer engagement
+1405,0,0,0.1406623920355993,Low,Continue regular customer engagement
+1406,0,0,0.04305841958478497,Low,Continue regular customer engagement
+1407,0,0,0.3426720973960478,Medium,Monitor satisfaction and investigate possible service issues
+1408,0,0,0.018984474232948627,Low,Continue regular customer engagement
+1409,0,0,0.022108985331635835,Low,Continue regular customer engagement
